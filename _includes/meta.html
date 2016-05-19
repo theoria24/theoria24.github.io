@@ -17,7 +17,5 @@
     {% endif %}
     <meta name="author" content="theoria" />
 
-    {% if page.title %}
     <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} – {{ site.description }}" />
     <meta property="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} – {{ site.description }}" />
-    {% endif %}
