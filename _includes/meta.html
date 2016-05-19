@@ -3,19 +3,21 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
     <link rel="icon" href="http://theoria24.github.io/favicon.png" type="image/png">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@_theoria">
 
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta name="twitter:description" content="{{ page.excerpt| strip_html }}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
     {% endif %}
     <meta name="author" content="theoria" />
 
     {% if page.title %}
     <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} – {{ site.description }}" />
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@_theoria">
     <meta property="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} – {{ site.description }}" />
     {% endif %}
