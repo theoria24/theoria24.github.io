@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## 誰？
-<style type="text/css">.nw{white-space:nowrap;}</style>
+<style type="text/css">.nw{vertical-align:top;text-align:right;white-space:nowrap;padding-right:20px;}</style>
 <table>
   <tr>
     <td class="nw">名前:</td>
