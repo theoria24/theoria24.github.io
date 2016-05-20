@@ -6,51 +6,10 @@ permalink: /about/
 
 ## 誰？
 <style type="text/css">.nw{vertical-align:top;text-align:right;white-space:nowrap;padding-right:20px;}</style>
-<table>
-  <tr>
-    <td class="nw">名前:</td>
-    <td>ておりあ(theoria / @_theoria)<br>
-  なぜこの名前にしたのかは定かではない…（忘れた）</td>
-</tr>
-  <tr>
-    <td class="nw">誕生日:</td>
-    <td>1996(H8)/10/18</td>
-  </tr>
-  <tr>
-    <td class="nw">年齢:</td>
-    <td>19歳<br>
-      &#12302;Wake Up, Girls！&#12303;高木美佑さん青山吉能さんと同い年です。</td>
-    </tr>
-  <tr>
-    <td class="nw">出身地:</td>
-    <td>宮城県（仙台ではない）</td>
-  </tr>
-  <tr>
-    <td class="nw">居住地:</td>
-    <td>宮城県&rarr;（聖地）仙台&rarr;岩手県盛岡市</td>
-  </tr>
-  <tr>
-    <td class="nw">好き:</td>
-    <td>Wake Up, Girls! / かんなぎ / THE IDOLM@STER / Steins;Gate / ガールズ＆パンツァー / 化物語シリーズ / さよなら絶望先生 / 新世紀エヴァンゲリオン / アイドルマスター XENOGLOSSIA / 電脳コイル / てさぐれ！部活もの</td>
-  </tr>
-  <tr>
-    <td class="nw">推し:</td>
-    <td>
-      岡本未夕、吉川愛、森名能亜（2次WUG）<br>
-      高木美佑さん、山下七海さん（3次WUG）<br>
-      <small>八木愛子（WUG ステージの天使）</small><br>
-      ざんげちゃん・涼城白亜（かんなぎ）<br>
-      牧瀬紅莉栖（Steins;Gate）<br>
-    </td>
-  </tr>
-  <tr>
-    <td class="nw">趣味:</td>
-    <td>絵 / プログラミング / キムワイプ卓球 / ...<br>
-    最近ちょっと絵を描いてみようと思い立って多少絵を描きます。（主にInkscake、GIMPでマウスで描きます）<br>
-    お遊びみたいなプログラミングをします。Ruby、HTML、JavaScript、PHPを少々。<br>
-    <a href="http://www.iktta.org" target="_blank">国際キムワイプ卓球協会</a>会員です。<small>相手がいないのでそんなにやってません。</small></td>
-  </tr>
-</table>
+
+[ておりあ](http://twitter.com/_theoria)です
+
+詳しくは[http://theoria24.github.io/twipro/](http://theoria24.github.io/twipro/)
 
 ### Contact
 <table>
