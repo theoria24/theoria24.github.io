@@ -1,6 +1,7 @@
 ---
 layout: post
 title: リゼロのフォントの話
+keywords: リゼロ,フォント,Re:ゼロから始める異世界生活,タイトル,ロゴ
 ---
 
 [リゼロ](http://re-zero-anime.jp/)、面白いですよね。
