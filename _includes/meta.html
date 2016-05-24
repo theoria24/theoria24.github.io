@@ -15,6 +15,8 @@
     <meta property="og:description" content="{{ site.description }}" />
     <meta name="twitter:description" content="{{ site.description }}" />
     {% endif %}
+    {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}" />{% endif %}
+
     <meta name="author" content="theoria" />
 
     <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} – {{ site.description }}" />
