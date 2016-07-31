@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
+title:              Theoria Note
+bio:                日々の生活に役立たないメモ
+description:        日々の生活に役立たないメモ
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                http://taylantatli.me/Moon
+locale:             ja_JP
+url:                http://theoria24.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,32 +26,32 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   disqus_GcrjMlrWvK
 
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
-  #analytics:
+  plus:            117616561992874279869
+  analytics:       UA-77995914-1
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
+email:              theoria23@gmail.com
+twitter:            _theoria
 facebook:           username
 github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
 steam:              username
 #dribbble:          username
-#youtube:           username
+youtube:           channel/UCflx499m021O1jmVb7Ff4uA
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
@@ -68,7 +68,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: http://theoria24.github.io
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
