@@ -56,10 +56,10 @@ title: RubyでGoogle SpreadSheetを扱うメモ
 
 [gimite/google-drive-ruby](https://github.com/gimite/google-drive-ruby)を確認。どうやらGoogle側のAPIが変更されておりGoogleDrive.loginはもう使えないよとのこと。
 
-ひとまず[Google Developer Console](https://console.developers.google.com/)で適当にプロジェクトを作成、API Managerの概要タブからGoogle Apps APIのDrive APIを有効化、認証情報タブのCreate credentialからOAuth クライアント IDを発行。最初に発行するときは同意画面が云々と言われるので従ってください。 
+ひとまず[Google Developer Console](https://console.developers.google.com/)で適当にプロジェクトを作成、API Managerの概要タブからGoogle Apps APIのDrive APIを有効化、認証情報タブのCreate credentialからOAuth クライアント IDを発行。最初に発行するときは同意画面が云々と言われるので従ってください。  
 後々使うので認証情報のJSONをダウンロードしてconfig.jsonと名前をつけてRubyファイルと同じフォルダに置きます。
 
-さて、Ruby側の設定です。 
+さて、Ruby側の設定です。  
 さっきエラーになった
 
     session = GoogleDrive.login("#{Gmail アカウント}", "#{アプリのパスワード}")
@@ -75,4 +75,22 @@ title: RubyでGoogle SpreadSheetを扱うメモ
     1. Open this page:
     https://accounts.google.com/なんちゃら
 
-現在、移転中です。元記事は[http://blog.theoria.esy.es/?p=51](http://blog.theoria.esy.es/?p=51)
+と言われるのでURLをブラウザで開く。
+
+> google-drive-ruby が次の許可をリクエストしています:
+
+というページが開くので良ければ許可。指示に従ってコードをコピーし、
+
+    2. Enter the authorization code shown in the page:
+
+に貼り付けてEnter。
+
+この後スプレッドシートを開くと…
+
+![GoogleSpredSheet](http://theoria24.github.io/images/Ruby-GoogleSpredSheet-1.png)
+
+[動作かくにん！よかった。](http://www.j-cast.com/tv/2014/05/08204104.html)
+
+2回目以降は認証情報がconfig.jsonに保存されているのでブラウザを立ち上げたりしなくても実行できます。
+
+あとのことは省略しますが、認証が通ったので読みこんだり書き込んだり色々できるはずです。頑張ってください。僕も頑張ります。
