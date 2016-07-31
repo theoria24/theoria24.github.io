@@ -7,6 +7,7 @@ title: RubyでGoogle SpreadSheetを扱うメモ
 
 参考サイトのままアカウント名とアプリのパスワードを発行したものとスプレッドシートのIDを差し替えただけで（もちろん[gimite/google-drive-ruby](https://github.com/gimite/google-drive-ruby)は入れて）
 
+##### test.rb
     #!/usr/bin/env ruby
 
     require "rubygems"
@@ -38,5 +39,21 @@ title: RubyでGoogle SpreadSheetを扱うメモ
       end
     rescue Timeout::Error
       puts "Google SpreadSheet-- Timed out while attempting to send"
+
+としたら
+
+    test.rb:31: syntax error, unexpected end-of-input, expecting keyword_end
+      puts "Google SpreadSheet-- Timed out while attempting to send"
+                                                                    ^
+
+と言われたので は～（°～°）？？？？？ って言って普通にend加えて実行。
+
+今度は
+
+    test.rb:8:in `<main>': undefined method `login' for GoogleDrive:Module (NoMethodError)
+
+…
+
+[gimite/google-drive-ruby](https://github.com/gimite/google-drive-ruby)を確認。どうやらGoogle側のAPIが変更されておりGoogleDrive.loginはもう使えないよとのこと。
 
 現在、移転中です。元記事は[http://blog.theoria.esy.es/?p=51](http://blog.theoria.esy.es/?p=51)
