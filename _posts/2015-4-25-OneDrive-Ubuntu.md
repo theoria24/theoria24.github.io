@@ -12,12 +12,10 @@ title: UbuntuでOneDriveとの同期が可能な「onedrive-d」を導入して�
 最初に見たサイトが http://natto.usamimi.info/?p=695
 書いてある通り
 
-```
-$ mkdir ~/OneDrive
-$ git clone https://github.com/xybu92/onedrive-d.git
-$ cd onedrive-d
-$ ./inst install
-```
+    $ mkdir ~/OneDrive
+    $ git clone https://github.com/xybu92/onedrive-d.git
+    $ cd onedrive-d
+    $ ./inst install
 
 したところなんかうまくいかない。
 
@@ -37,9 +35,7 @@ $ ./inst install
 
 初めに
 
-```
-$ mkdir ~/OneDrive
-```
+    $ mkdir ~/OneDrive
 
 して同期するディレクトリを作っておくと便利です。既存のディレクトリを指定することもできるので必須ではないですが。
 
@@ -49,32 +45,24 @@ $ mkdir ~/OneDrive
 
 onedrive-dのバージョンが1より前のとき
 
-```
-$ sudo pip uninstall onedrive-d
-```
+    $ sudo pip uninstall onedrive-d
 
 onedrive-dのバージョンが1以降のとき
 
-```
-$ sudo pip3 uninstall onedrive-d
-```
+    $ sudo pip3 uninstall onedrive-d
 
 
 
 それから、
 
-```
-$ rm -rfv ~/.onedrive
-```
+    $ rm -rfv ~/.onedrive
 
 ### 2. ソースコードの取得
 
 gitを使います
 
-```
-$ git clone https://github.com/xybu/onedrive-d.git
-$ cd onedrive-d
-```
+    $ git clone https://github.com/xybu/onedrive-d.git
+    $ cd onedrive-d
 
 あるいは[https://github.com/xybu/onedrive-d](https://github.com/xybu/onedrive-d)からzipでダウンロードしてもいいはず
 
@@ -84,43 +72,31 @@ onedrive-dの動作にはPython3が必要なのでない人はインストール
 
 パッケージの登録
 
-```
-$ sudo python3 setup.py install
-```
+    $ sudo python3 setup.py install
 
 一時ファイルの削除
 
 
-```
-$ sudo python3 setup.py clean
-```
+    $ sudo python3 setup.py clean
 
 設定ファイル用のディレクトリの作成
 
-```
-$ mkdir ~/.onedrive
-$ cp ./onedrive_d/res/default_ignore.ini ~/.onedrive/ignore_v2.ini
-```
+    $ mkdir ~/.onedrive
+    $ cp ./onedrive_d/res/default_ignore.ini ~/.onedrive/ignore_v2.ini
 
 ログファイルの作成
 
-```
-$ sudo touch /var/log/onedrive_d.log
-```
+    $ sudo touch /var/log/onedrive_d.log
 
 ‘whoami’をユーザー名にしたいとき
 
-```
-$ sudo chown `whoami` /var/log/onedrive_d.log
-```
+    $ sudo chown `whoami` /var/log/onedrive_d.log
 
 ### 4. 設定
 
 設定プログラムの起動
 
-```
-$ onedrive-pref
-```
+    $ onedrive-pref
 
 指示になんとなく従っていってください
 
@@ -148,9 +124,7 @@ OneDrive認証用のURLが表示されるのでコピペするなりしてブラ
 
 GUIじゃないと嫌って人は
 
-```
-$ onedrive-pref --ui=gtk
-```
+    $ onedrive-pref --ui=gtk
 
 してください。設定項目は同じなので割愛。
 
@@ -158,15 +132,11 @@ $ onedrive-pref --ui=gtk
 
 onedrive-dの起動（バックグラウンドプロセス）
 
-```
-$ onedrive-d start
-```
+    $ onedrive-d start
 
 通常プロセスとして実行したいときは
 
-```
-$ onedrive-d start --debug
-```
+    $ onedrive-d start --debug
 
 これで連携したOneDriveと指定したローカルフォルダが同期されます
 
@@ -174,10 +144,8 @@ $ onedrive-d start --debug
 
 ヘルプが必要な人は
 
-```
-$ onedrive-pref --help
-$ onedrive-d --help
-```
+    $ onedrive-pref --help
+    $ onedrive-d --help
 
 するとヘルプが出ます。英語で。
 

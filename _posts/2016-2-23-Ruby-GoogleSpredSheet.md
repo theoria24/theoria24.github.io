@@ -56,4 +56,23 @@ title: RubyでGoogle SpreadSheetを扱うメモ
 
 [gimite/google-drive-ruby](https://github.com/gimite/google-drive-ruby)を確認。どうやらGoogle側のAPIが変更されておりGoogleDrive.loginはもう使えないよとのこと。
 
+ひとまず[Google Developer Console](https://console.developers.google.com/)で適当にプロジェクトを作成、API Managerの概要タブからGoogle Apps APIのDrive APIを有効化、認証情報タブのCreate credentialからOAuth クライアント IDを発行。最初に発行するときは同意画面が云々と言われるので従ってください。 
+後々使うので認証情報のJSONをダウンロードしてconfig.jsonと名前をつけてRubyファイルと同じフォルダに置きます。
+
+さて、Ruby側の設定です。 
+さっきエラーになった
+
+    session = GoogleDrive.login("#{Gmail アカウント}", "#{アプリのパスワード}")
+
+を
+
+    session = GoogleDrive.saved_session("config.json")
+
+に書き換えます。これでさっきダウンロードしてきたconfig.jsonからいい感じに情報を拾って認証してくれるはずです。
+
+実行すると
+
+    1. Open this page:
+    https://accounts.google.com/なんちゃら
+
 現在、移転中です。元記事は[http://blog.theoria.esy.es/?p=51](http://blog.theoria.esy.es/?p=51)
