@@ -7,7 +7,6 @@ title: RubyでGoogle SpreadSheetを扱うメモ
 
 参考サイトのままアカウント名とアプリのパスワードを発行したものとスプレッドシートのIDを差し替えただけで（もちろん[gimite/google-drive-ruby](https://github.com/gimite/google-drive-ruby)は入れて）
 
-##### test.rb
     #!/usr/bin/env ruby
 
     require "rubygems"
