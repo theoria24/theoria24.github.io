@@ -7,7 +7,7 @@ title: RubyでGoogle SpreadSheetを扱うメモ
 
 参考サイトのままアカウント名とアプリのパスワードを発行したものとスプレッドシートのIDを差し替えただけで（もちろん[gimite/google-drive-ruby](https://github.com/gimite/google-drive-ruby)は入れて）
 
-<pre class="prettyprint linenums lang-ruby"><code>#!/usr/bin/env ruby
+<code class="prettyprint linenums lang-ruby">#!/usr/bin/env ruby
 
 require "rubygems"
 require "google_drive"
@@ -38,6 +38,6 @@ begin
   end
 rescue Timeout::Error
   puts "Google SpreadSheet-- Timed out while attempting to send"
-</code></pre>
+</code>
 
 現在、移転中です。元記事は[http://blog.theoria.esy.es/?p=51](http://blog.theoria.esy.es/?p=51)
