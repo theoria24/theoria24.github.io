@@ -1,21 +1,31 @@
 ---
 layout: post
 title: UbuntuでOneDriveとの同期が可能な「onedrive-d」を導入してみた
+categories:
+  - technology
+tags:
+  - Ruby
+  - OneDrive
+  - Ubuntu
+  - onedrive-d
+  - Tech
 ---
 
-かつてUbuntuに標準で(？)搭載されていたストレージサービスUbuntu Oneが昨年6月に終了したので、Ubuntuでなんか使えるのないかなーと思って探してみたところ見つけたのが[onedrive-d](https://github.com/xybu/onedrive-d)。
+かつてUbuntuに標準で(？)搭載されていたストレージサービスUbuntu Oneが昨年6月に終了したので、Ubuntuでなんか使えるのないかなーと思って探してみたところ見つけたのが[onedrive-d](https://github.com/xybu/onedrive-d){:target="_blank"}。
 
 前置きどーでもいーからインストール方法はよって人は[こっち](#how)
 
 とりあえず導入の仕方をググってみると普通に日本語記事がいっぱい出てきたのでこれは余裕だと思って導入に取り掛かりました。
 
-最初に見たサイトが http://natto.usamimi.info/?p=695
+最初に見たサイトが[http://natto.usamimi.info/?p=695](http://natto.usamimi.info/?p=695){:target="_blank"}
 書いてある通り
 
-    $ mkdir ~/OneDrive
-    $ git clone https://github.com/xybu92/onedrive-d.git
-    $ cd onedrive-d
-    $ ./inst install
+```bash
+$ mkdir ~/OneDrive
+$ git clone https://github.com/xybu92/onedrive-d.git
+$ cd onedrive-d
+$ ./inst install
+```
 
 したところなんかうまくいかない。
 
@@ -23,7 +33,7 @@ title: UbuntuでOneDriveとの同期が可能な「onedrive-d」を導入して�
 
 うーん、同じだ…
 
-諦めて[公式github](https://github.com/xybu/onedrive-d)を見ます。
+諦めて[公式github](https://github.com/xybu/onedrive-d){:target="_blank"}を見ます。
 
 英語だ…(当然)
 
@@ -31,11 +41,13 @@ title: UbuntuでOneDriveとの同期が可能な「onedrive-d」を導入して�
 
 以下README.mdをそれっぽく訳しただけのやつです。
 
-<div id="how"><b>以下本文</b></div>
+<b id="how">以下本文</b>
 
 初めに
 
-    $ mkdir ~/OneDrive
+```bash
+$ mkdir ~/OneDrive
+```
 
 して同期するディレクトリを作っておくと便利です。既存のディレクトリを指定することもできるので必須ではないですが。
 
@@ -45,26 +57,34 @@ title: UbuntuでOneDriveとの同期が可能な「onedrive-d」を導入して�
 
 onedrive-dのバージョンが1より前のとき
 
-    $ sudo pip uninstall onedrive-d
+```bash
+$ sudo pip uninstall onedrive-d
+```
 
 onedrive-dのバージョンが1以降のとき
 
-    $ sudo pip3 uninstall onedrive-d
+```bash
+$ sudo pip3 uninstall onedrive-d
+```
 
-
+<br>
 
 それから、
 
-    $ rm -rfv ~/.onedrive
+```bash
+$ rm -rfv ~/.onedrive
+```
 
 ### 2. ソースコードの取得
 
 gitを使います
 
-    $ git clone https://github.com/xybu/onedrive-d.git
-    $ cd onedrive-d
+```bash
+$ git clone https://github.com/xybu/onedrive-d.git
+$ cd onedrive-d
+```
 
-あるいは[https://github.com/xybu/onedrive-d](https://github.com/xybu/onedrive-d)からzipでダウンロードしてもいいはず
+あるいは[https://github.com/xybu/onedrive-d](https://github.com/xybu/onedrive-d){:target="_blank"}からzipでダウンロードしてもいいはず
 
 ### 3. onedrive-dのインストール
 
@@ -72,31 +92,42 @@ onedrive-dの動作にはPython3が必要なのでない人はインストール
 
 パッケージの登録
 
-    $ sudo python3 setup.py install
+```bash
+$ sudo python3 setup.py install
+```
 
 一時ファイルの削除
 
-
-    $ sudo python3 setup.py clean
+```bash
+$ sudo python3 setup.py clean
+```
 
 設定ファイル用のディレクトリの作成
 
-    $ mkdir ~/.onedrive
-    $ cp ./onedrive_d/res/default_ignore.ini ~/.onedrive/ignore_v2.ini
+```bash
+$ mkdir ~/.onedrive
+$ cp ./onedrive_d/res/default_ignore.ini ~/.onedrive/ignore_v2.ini
+```
 
 ログファイルの作成
 
-    $ sudo touch /var/log/onedrive_d.log
+```bash
+$ sudo touch /var/log/onedrive_d.log
+```
 
 ‘whoami’をユーザー名にしたいとき
 
-    $ sudo chown `whoami` /var/log/onedrive_d.log
+```bash
+$ sudo chown `whoami` /var/log/onedrive_d.log
+```
 
 ### 4. 設定
 
 設定プログラムの起動
 
-    $ onedrive-pref
+```bash
+$ onedrive-pref
+```
 
 指示になんとなく従っていってください
 
@@ -110,7 +141,7 @@ OneDrive認証用のURLが表示されるのでコピペするなりしてブラ
 
 #### Step2/4 OneDriveと同期するディレクトリの指定
 
-デフォルトでは/home/(ユーザー名)/OneDriveに指定されるので別なとこにしたい人はここで指定してください。
+デフォルトでは<code>/home/(ユーザー名)/OneDrive</code>に指定されるので別なとこにしたい人はここで指定してください。
 
 #### Step3/4 数値とかの設定(？)
 
@@ -124,7 +155,9 @@ OneDrive認証用のURLが表示されるのでコピペするなりしてブラ
 
 GUIじゃないと嫌って人は
 
-    $ onedrive-pref --ui=gtk
+```bash
+$ onedrive-pref --ui=gtk
+```
 
 してください。設定項目は同じなので割愛。
 
@@ -132,11 +165,15 @@ GUIじゃないと嫌って人は
 
 onedrive-dの起動（バックグラウンドプロセス）
 
-    $ onedrive-d start
+```bash
+$ onedrive-d start
+```
 
 通常プロセスとして実行したいときは
 
-    $ onedrive-d start --debug
+```bash
+$ onedrive-d start --debug
+```
 
 これで連携したOneDriveと指定したローカルフォルダが同期されます
 
@@ -144,12 +181,14 @@ onedrive-dの起動（バックグラウンドプロセス）
 
 ヘルプが必要な人は
 
-    $ onedrive-pref --help
-    $ onedrive-d --help
+```bash
+$ onedrive-pref --help
+$ onedrive-d --help
+```
 
 するとヘルプが出ます。英語で。
 
-詳しいことは[https://github.com/xybu/onedrive-d](https://github.com/xybu/onedrive-d)を見てください。すいません。
+詳しいことは[https://github.com/xybu/onedrive-d](https://github.com/xybu/onedrive-d){:target="_blank"}を見てください。すいません。
 
 インストールしないで実行とかもできるらしい。
 
