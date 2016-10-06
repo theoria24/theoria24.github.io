@@ -51,4 +51,4 @@ Preference &rarr; Package Setting &rarr; Mediawiker &rarr; Settings - User を�
 
 <span style="font-size: 12px;">（Mediawikerは日本語に対応していないらしく変換を決定するときに<kbd>Enter</kbd>を押すとキーバインドが発動してしまう問題があるようです（））</span>
 
-問題はありますが、Wiki構文をハイライトしてくれるので多少便利です。<kbd>Enter</kbd>周りは多少頑張れば修正できそうなのでそのうち考えます。
+問題はありますが、Wiki構文をハイライトしてくれるので多少便利です。 <kbd>Enter</kbd> 周りは多少頑張れば修正できそうなのでそのうち考えます。
