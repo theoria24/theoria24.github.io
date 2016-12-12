@@ -32,14 +32,18 @@ tags:
 
 まずは旧ロゴ
 <figure>
-  <a href="http://theoria24.github.io/images/wugosaigen.png"><img src="http://theoria24.github.io/images/wugosaigen.png"></a>
-  <figcaption>フォントはArial Black</figcaption>
+  <center>
+    <a href="http://theoria24.github.io/images/wugosaigen.png"><img src="http://theoria24.github.io/images/wugosaigen.png"></a>
+    <figcaption>フォントはArial Black</figcaption>
+  </center>
 </figure>
 
 続いて新ロゴ
 <figure>
-  <a href="http://theoria24.github.io/images/wugnsaigen.png"><img src="http://theoria24.github.io/images/wugosaigen.png"></a>
-  <figcaption>フォントはHelvetica Black</figcaption>
+  <center>
+    <a href="http://theoria24.github.io/images/wugnsaigen.png"><img src="http://theoria24.github.io/images/wugnsaigen.png"></a>
+    <figcaption>フォントはHelvetica Black</figcaption>
+  </center>
 </figure>
 
 よく見ると少しずつ違いますね…
