@@ -2,11 +2,9 @@
 layout: home
 ---
 # ようこそ
-
-現在、サイト移行中です。
-
 [About Me](http://theoria24.github.io/twipro/){:target="_blank"}
 
-### なにかあったとき
+[プライバシーポリシー](http://theoria24.github.io/privacy-policy.html)
 
+### なにかあったとき
 [Twitter](https://twitter.com/_theoria){:target="_blank"}
