@@ -10,6 +10,7 @@ tags:
   - Logo
   - WUG
   - Wake Up, Girls!
+twimage: http://theoria24.github.io/images/wugn.png
 ---
 
 [WUG新章](http://wakeupgirls3.jp/){:target="_blank"}が発表されました。制作陣の変更など色々思うところはあるのですが、確実に変わってしまったものがあります。
