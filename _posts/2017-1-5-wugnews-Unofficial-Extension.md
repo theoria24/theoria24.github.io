@@ -9,7 +9,6 @@ tags:
   - tampermonkey
   - Tech
 ---
-[https://github.com/theoria24/wugnews-Unofficial-Extension](https://github.com/theoria24/wugnews-Unofficial-Extension){:target="_blank"}  
 [http://wug.news/](http://wug.news/){:target="_blank"}便利ですよね。
 
 ### このユーザースクリプトでできること
@@ -27,3 +26,5 @@ tags:
 [ここからインストール](https://github.com/theoria24/wugnews-Unofficial-Extension/raw/master/wugnews-unofficial-extension.user.js){:target="_blank"}（Tampermonkeyなどが自動で立ち上がるはず）
 
 できないときは検索したりしてください。どうしても無理なときはTwitterにでも連絡ください。
+
+[https://github.com/theoria24/wugnews-Unofficial-Extension](https://github.com/theoria24/wugnews-Unofficial-Extension){:target="_blank"}
