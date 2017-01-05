@@ -9,7 +9,7 @@ tags:
   - tampermonkey
   - Tech
 ---
-
+[https://github.com/theoria24/wugnews-Unofficial-Extension](https://github.com/theoria24/wugnews-Unofficial-Extension){:target="_blank"}  
 [http://wug.news/](http://wug.news/){:target="_blank"}便利ですよね。
 
 ### このユーザースクリプトでできること
