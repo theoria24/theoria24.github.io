@@ -28,6 +28,6 @@ tags:
 できないときは検索したりしてください。どうしても無理なときはTwitterにでも連絡ください。
 
 ### ライセンス
-The Unlicense[&gt;http://unlicense.org/&gt;](http://unlicense.org/){:target="_blank"}
+The Unlicense[&lt;http://unlicense.org/&gt;](http://unlicense.org/){:target="_blank"}
 
 [https://github.com/theoria24/wugnews-Unofficial-Extension](https://github.com/theoria24/wugnews-Unofficial-Extension){:target="_blank"}
