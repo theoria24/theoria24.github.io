@@ -27,4 +27,7 @@ tags:
 
 できないときは検索したりしてください。どうしても無理なときはTwitterにでも連絡ください。
 
+### ライセンス
+The Unlicense[<http://unlicense.org/>](http://unlicense.org/){:target="_blank"}
+
 [https://github.com/theoria24/wugnews-Unofficial-Extension](https://github.com/theoria24/wugnews-Unofficial-Extension){:target="_blank"}
