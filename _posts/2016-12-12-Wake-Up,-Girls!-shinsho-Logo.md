@@ -9,7 +9,7 @@ tags:
   - Font
   - Logo
   - WUG
-  - Wake Up, Girls!
+  - "Wake Up, Girls!"
 twimage: http://theoria24.github.io/images/wugnsaigen.png
 ---
 
