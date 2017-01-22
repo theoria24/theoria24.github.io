@@ -11,9 +11,9 @@ tags:
   - WUG
   - Wake Up, Girls!
 key:
-  - Anime
-  - Font
-  - Logo
+  - アニメ
+  - フォント
+  - ロゴ
   - WUG
   - Wake Up Girls!
   - 新章
