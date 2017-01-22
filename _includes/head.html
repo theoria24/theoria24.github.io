@@ -12,7 +12,7 @@
   {% else %}
   <meta name="description" content="{{ site.description }}">
   {% endif %}
-  {% if page.tags %}<meta name="keywords" content="{% if page.key %}{{ page.key | join: ', ' }}{% else %}{{ page.tags | join: ', ' }}{% endif %}">{% endif %}
+  {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}{% if page.key %},{{ page.key | join: ', ' }}{% else %}{% endif %}">{% endif %}
   <!-- Twitter Cards -->
   {% if page.twimage %}{% capture image %}{{ page.twimage }}{% endcapture %}{% unless image contains 'http://' or image contains 'https://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
   <meta name="twitter:card" content="summary_large_image">
