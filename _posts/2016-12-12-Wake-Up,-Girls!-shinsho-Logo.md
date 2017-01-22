@@ -9,7 +9,7 @@ tags:
   - Font
   - Logo
   - WUG
-  - Wake Up, Girls!
+  - "Wake Up, Girls!"
 key:
   - アニメ
   - フォント
