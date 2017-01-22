@@ -14,12 +14,12 @@ key:
 ---
 [http://wug.news/](http://wug.news/){:target="_blank"} 便利ですよね。
 
-そこで[@wugnews](http://wug.news/){:target="_blank"}を便利にするユーザースクリプト<code>wugnews-unofficial-extension.user.js</code>を作りました。<span style="color:#c0c0c0;font-size:60%;">（おあそび）</span>
+そこで@wugnewsを便利にするユーザースクリプト<code>wugnews-unofficial-extension.user.js</code>を作りました。<span style="color:#c0c0c0;font-size:60%;">（おあそび）</span>
 
 ## このユーザースクリプトでできること
 - １人のメンバーに絞って予定を確認できます。
-- 以上です（）  
-（必要な機能があったら足していきたい）
+- Googleカレンダーの幅を無理やり100%にします（本家がいい感じに対応してくださった場合消えます）。
+- 以上です<span style="color:#bbb;">（必要な機能があったら足していきたい）</span>
 
 ## 動作イメージ
 <blockquote class="twitter-video" data-lang="ja"><p lang="ja" dir="ltr"><a href="https://t.co/SVOZAlYRmD">https://t.co/SVOZAlYRmD</a> を便利にするユーザースクリプト <a href="https://t.co/iFLz0QIYun">pic.twitter.com/iFLz0QIYun</a></p>&mdash; ておりあ (@_theoria) <a href="https://twitter.com/_theoria/status/818855456613355521">2017年1月10日</a></blockquote>
