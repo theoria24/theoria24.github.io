@@ -9,7 +9,14 @@ tags:
   - Font
   - Logo
   - WUG
+  - Wake Up, Girls!
+tags:
+  - Anime
+  - Font
+  - Logo
+  - WUG
   - Wake Up Girls!
+  - 新章
 twimage: http://theoria24.github.io/images/wugnsaigen.png
 ---
 

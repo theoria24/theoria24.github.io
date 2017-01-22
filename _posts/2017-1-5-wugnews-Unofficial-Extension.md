@@ -8,6 +8,10 @@ tags:
   - wugnews-Unofficial-Extension
   - tampermonkey
   - Tech
+key:
+  - wugnews-Unofficial-Extension
+  - wug.news
+  - wugnews-unofficial-extension.user.js
 ---
 [http://wug.news/](http://wug.news/){:target="_blank"}便利ですよね。
 
