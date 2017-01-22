@@ -1,6 +1,6 @@
 ---
 layout: post
-title: wugnews-Unofficial-Extensionについて
+title: wug.newsを便利にするユーザースクリプト
 categories:
   - technology
 tags:
@@ -10,8 +10,11 @@ tags:
   - Tech
 key:
   - wugnews-unofficial-extension.user.js
+  - wug.news
 ---
 [http://wug.news/](http://wug.news/){:target="_blank"} 便利ですよね。
+
+そこで wug.news を便利にするユーザースクリプト wugnews-unofficial-extension.user.js を作りました。<span class="hide">（おふざけ）</span>
 
 ### このユーザースクリプトでできること
 - １人のメンバーに絞って予定を確認できます。
