@@ -10,7 +10,7 @@ tags:
   - Logo
   - WUG
   - Wake Up, Girls!
-tags:
+key:
   - Anime
   - Font
   - Logo

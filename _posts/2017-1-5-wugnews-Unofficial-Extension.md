@@ -13,7 +13,7 @@ key:
   - wug.news
   - wugnews-unofficial-extension.user.js
 ---
-[http://wug.news/](http://wug.news/){:target="_blank"}便利ですよね。
+[http://wug.news/](http://wug.news/){:target="_blank"} 便利ですよね。
 
 ### このユーザースクリプトでできること
 - １人のメンバーに絞って予定を確認できます。
