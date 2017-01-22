@@ -14,7 +14,7 @@ key:
 ---
 [http://wug.news/](http://wug.news/){:target="_blank"} 便利ですよね。
 
-そこで wug.news を便利にするユーザースクリプト<code>wugnews-unofficial-extension.user.js</code>を作りました。<span style="color: #c0c0c0;font-size: 60%;">（おふざけ）</span>
+そこで[@wugnews](http://wug.news/){:target="_blank"}を便利にするユーザースクリプト<code>wugnews-unofficial-extension.user.js</code>を作りました。<span style="color:#c0c0c0;font-size:60%;">（おあそび）</span>
 
 ## このユーザースクリプトでできること
 - １人のメンバーに絞って予定を確認できます。
