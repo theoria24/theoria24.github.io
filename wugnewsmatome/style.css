@@ -37,3 +37,11 @@ a {
   color: green;
   word-break: break-all;
 }
+li:before {
+  content: counter(tes)". ";
+}
+li {
+  display: inline-block;
+  margin-right: 1em;
+  counter-increment: tes;
+}
