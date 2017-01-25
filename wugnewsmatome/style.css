@@ -2,7 +2,7 @@
 body {
     background-color: #fcfcfc;
     font-family: 'Noto Sans Japanese', serif;
-    width: 80%;
+    width: 85%;
     max-width: 750px;
     margin: auto;
 }
@@ -38,10 +38,10 @@ a {
   word-break: break-all;
 }
 li:before {
-  content: counter(tes)". ";
+  content: counter(tes)".";
 }
 li {
   display: inline-block;
-  margin-right: 1em;
+  margin-right: 10px;
   counter-increment: tes;
 }
