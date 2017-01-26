@@ -26,7 +26,7 @@ dd {
 .nanami { color: #b173de; }
 .airi { color: #1c62a7; }
 .yoshino { color: #67c5df; }
-span {
+dd > span {
 text-shadow: 0.5px 0.5px 1.5px #555,
 -0.5px 0.5px 1.5px #555,
 0.5px -0.5px 1.5px #555,
@@ -36,12 +36,4 @@ text-shadow: 0.5px 0.5px 1.5px #555,
 a {
   color: green;
   word-break: break-all;
-}
-li:before {
-  content: counter(tes)".";
-}
-li {
-  display: inline-block;
-  margin-right: 10px;
-  counter-increment: tes;
 }
