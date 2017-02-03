@@ -1,39 +1,44 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
 body {
-    background-color: #fcfcfc;
-    font-family: 'Noto Sans Japanese', serif;
-    width: 85%;
-    max-width: 750px;
-    margin: auto;
+  background-color: #fcfcfc;
+  font-family: 'Noto Sans Japanese', serif;
+  width: 85%;
+  max-width: 750px;
+  margin: auto;
 }
 dt {
-    font-weight: bold;
-    border-bottom: solid 1px #888;
-    color: #555;
-    margin-top: 1em;
-    font-size: 120%;
+  font-weight: bold;
+  border-bottom: solid 1px #888;
+  color: #555;
+  margin-top: 1em;
+  font-size: 120%;
 }
 dd {
-    border: solid 1px #aaa;
-    padding: 1em;
-    margin-left: 0em;
-    margin-top: 0.5em;
+  border: solid 1px #aaa;
+  padding: 1em;
+  margin-left: 0em;
+  margin-top: 0.5em;
 }
-.mayu { color: #e76259; }
-.miyu { color: #ff8e44; }
-.kaya { color: #64cf76; }
-.minami { color: #fde753; }
-.nanami { color: #b173de; }
-.airi { color: #1c62a7; }
-.yoshino { color: #67c5df; }
+.mayu {color: #f33;}
+.miyu {color: #fa4;}
+.kaya {color: #5F5;}
+.minami {color: #ff3;}
+.nanami {color: #A5f;}
+.airi { color: #02c;}
+.yoshino { color: #6cf;}
 dd > span {
-text-shadow: 0.5px 0.5px 1.5px #555,
--0.5px 0.5px 1.5px #555,
-0.5px -0.5px 1.5px #555,
--0.5px -0.5px 1.5px #555;
+  text-shadow: 0.5px 0.5px 1.5px #333,
+    -0.5px 0.5px 1.5px #333,
+    0.5px -0.5px 1.5px #333,
+    -0.5px -0.5px 1.5px #333;
 }
 
 a {
   color: green;
   word-break: break-all;
+}
+
+footer {
+  padding: 10px 0;
+  font-size: 75%;
 }
