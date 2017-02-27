@@ -131,9 +131,7 @@ PlayState.restartGame = function () {
 PlayState.shareGame = function () {
     //Custom code relating to how you want to 'share' the game will need to go here.
     //Right now we are just going to redirect the user to kiwi.js.org :P
-    setTimeout(function() {
-      window.open("http://google.com");
-     }, 100);
+    setTimeout(function() { window.open('https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Ftheoria24.github.io%2FFlappyMiyu%2F&ref_src=twsrc%5Etfw&text=%E7%B5%90%E6%9E%9C%E3%81%AF' + this.score + '%E5%9B%9E%EF%BC%81%0D%0A%0D%0AFlappy+Miyu&tw_p=tweetbutton&url=http%3A%2F%2Ftheoria24.github.io%2FFlappyMiyu%2F') }, 100); 
 }
 
 
