@@ -38,6 +38,11 @@ a {
   word-break: break-all;
 }
 
+sup {
+  font-size: 75%;
+  margin-left: 2px;
+}
+
 footer {
   padding: 10px 0;
   font-size: 75%;
