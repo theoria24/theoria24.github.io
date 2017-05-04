@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>ピロリ君 γ（Web版）</title>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" href="icon.png">
+  <script type="text/javascript" src="jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="ion.sound.min.js"></script>
+  <script type="text/javascript">
+  $(function(){
+    var ch1 = ch2 = ch3 = ch4 = ch5 = rank = 0;
+    ion.sound({
+      sounds: [
+        {
+          name: "pp",
+          multiplay: true
+        },
+        {name: "bb"}
+      ],
+      path: "sounds/",
+      preload: true
+    });
+    $('html').keydown(function(e){
+      switch(e.which){
+        case 49: // Key[1]
+        if (ch1 == 0) {
+          ch1 += 1;
+          rank += 1;
+          $("div.rank").append('<span class="ranking r' + rank + '">1</span>');
+          if (rank == 1) {
+            ion.sound.play("pp");
+          }
+        }
+        break;
+
+        case 50: // Key[2]
+        if (ch2 == 0) {
+          ch2 += 1;
+          rank += 1;
+          $("div.rank").append('<span class="ranking r' + rank + '">2</span>');
+          if (rank == 1) {
+            ion.sound.play("pp");
+          }
+        }
+        break;
+
+        case 51: // Key[3]
+        if (ch3 == 0) {
+          ch3 += 1;
+          rank += 1;
+          $("div.rank").append('<span class="ranking r' + rank + '">3</span>');
+          if (rank == 1) {
+            ion.sound.play("pp");
+          }
+        }
+        break;
+
+        case 52: // Key[4]
+        if (ch4 == 0) {
+          ch4 += 1;
+          rank += 1;
+          $("div.rank").append('<span class="ranking r' + rank + '">4</span>');
+          if (rank == 1) {
+            ion.sound.play("pp");
+          }
+        }
+        break;
+
+        case 53: // Key[5]
+        if (ch5 == 0) {
+          ch5 += 1;
+          rank += 1;
+          $("div.rank").append('<span class="ranking r' + rank + '">5</span>');
+          if (rank == 1) {
+            ion.sound.play("pp");
+          }
+        }
+        break;
+
+        case 82: // Key[r]
+        $("div.rank").empty();
+        ch1 = ch2 = ch3 = ch4 = ch5 = rank = count = 0
+        break;
+
+        case 84: // Key[t]
+        $("div.rank").empty();
+        ion.sound.play("pp");
+        ch1 = ch2 = ch3 = ch4 = ch5 = rank = count = 0
+        break;
+
+        case 70: // Key[f]
+        $("div.rank").empty();
+        ion.sound.play("bb");
+        ch1 = ch2 = ch3 = ch4 = ch5 = rank = count = 0
+        break;
+      }
+    });
+
+
+    setInterval(function(){
+      var gamepad_list = navigator.getGamepads();
+      var gamepad = gamepad_list[0];
+      var buttons = gamepad.buttons;
+      if (buttons[0].pressed) {
+        if (ch1 == 0) {
+          ch1 += 1;
+          rank += 1;
+          $("div.rank").append('<span class="ranking r' + rank + '">1</span>');
+          if (rank == 1) {
+            ion.sound.play("pp");
+          }
+        }
+      }
+      if (buttons[1].pressed) {
+        if (ch2 == 0) {
+          ch2 += 1;
+          rank += 1;
+          $("div.rank").append('<span class="ranking r' + rank + '">2</span>');
+          if (rank == 1) {
+            ion.sound.play("pp");
+          }
+        }
+      }
+      if (buttons[2].pressed) {
+        if (ch3 == 0) {
+          ch3 += 1;
+          rank += 1;
+          $("div.rank").append('<span class="ranking r' + rank + '">3</span>');
+          if (rank == 1) {
+            ion.sound.play("pp");
+          }
+        }
+      }
+      if (buttons[3].pressed) {
+        if (ch4 == 0) {
+          ch4 += 1;
+          rank += 1;
+          $("div.rank").append('<span class="ranking r' + rank + '">4</span>');
+          if (rank == 1) {
+            ion.sound.play("pp");
+          }
+        }
+      }
+      if (buttons[4].pressed) {
+        if (ch5 == 0) {
+          ch5 += 1;
+          rank += 1;
+          $("div.rank").append('<span class="ranking r' + rank + '">5</span>');
+          if (rank == 1) {
+            ion.sound.play("pp");
+          }
+        }
+      }
+      if (gamepad.axes[1] > 0.9) {
+        $("div.rank").empty();
+        ion.sound.play("pp");
+        ch1 = ch2 = ch3 = ch4 = ch5 = rank = count = 0
+      }
+      if (gamepad.axes[1] < -0.9) {
+        $("div.rank").empty();
+        ion.sound.play("bb");
+        ch1 = ch2 = ch3 = ch4 = ch5 = rank = count = 0
+      }
+    },1000/60); //60fps
+
+
+  });
+  </script>
+</head>
+<body>
+  <h1>ピロリ君 γ<img src="icon.png" class="logo">（Web版）</h1>
+  <div class="rank"><span class="demo">R</span><span class="demo">e</span><span class="demo">a</span><span class="demo">d</span><span class="demo">y</span><span class="demo">...</span></div>
+</body>
+</html>
