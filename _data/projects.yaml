@@ -1,3 +1,13 @@
+- title: wugnews-unofficial-extension.user.js
+  url: http://theoria24.github.io/wugnews-Unofficial-Extension/
+  image: http://theoria24.github.io/assets/images/wugnews-unofficial-extension.user.js.png
+  completed: true
+
+- title: like2iine
+  url: http://theoria24.github.io/like2iine/
+  image: http://theoria24.github.io/assets/images/like2iine.png
+  completed: true
+
 - title: ジャックス君
   url: https://twitter.com/jacks_kun
   image: http://theoria24.github.io/twipro/ico/jacks.jpg
@@ -8,22 +18,7 @@
   image: http://theoria24.github.io/twipro/ico/julia.png
   completed: true
 
-- title: ざんげちゃんbot
-  url: https://twitter.com/zangechanbot
-  image: https://pbs.twimg.com/profile_images/674626052677742592/puQ-zZPa.jpg
-  completed: false
-
-- title: WUG-2グランプリ
-  url: http://wug2-gp.lv9.org/
-  image: http://wug2-gp.lv9.org/wug2gp.png?i=1
-  completed: true
-
-- title: カルロス鴨田
-  url: https://twitter.com/CarlosKamoda
-  image: https://pbs.twimg.com/profile_images/652898670111670272/WZlcAuSr.png
-  completed: true
-
-- title: 301Ranker
-  url: https://sites.google.com/site/301ranker/
-  image: https://sites.google.com/site/301ranker/_/rsrc/1468745362892/home/301.png
-  completed: true
+#- title: ざんげちゃんbot
+#  url: https://twitter.com/zangechanbot
+#  image: https://pbs.twimg.com/profile_images/674626052677742592/puQ-zZPa.jpg
+#  completed: false
