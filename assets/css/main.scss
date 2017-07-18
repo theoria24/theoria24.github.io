@@ -12,6 +12,9 @@ sitemap: false
        url(//fonts.gstatic.com/ea/notosansjapanese/v6/NotoSansJP-Light.woff) format('woff'),
        url(//fonts.gstatic.com/ea/notosansjapanese/v6/NotoSansJP-Light.otf) format('opentype');
 }
+.sponsor {
+  padding: 20px;
+}
 @import "base";
 @import "site";
 @import "utilities";
