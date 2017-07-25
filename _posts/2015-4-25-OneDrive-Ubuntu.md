@@ -4,7 +4,7 @@ title: UbuntuでOneDriveとの同期が可能な「onedrive-d」を導入して�
 categories:
   - technology
 tags:
-  - Ruby
+  - Python
   - OneDrive
   - Ubuntu
   - onedrive-d
