@@ -1,4 +1,4 @@
-div>---
+---
 layout: home
 ---
 
