@@ -53,7 +53,7 @@ caption,
 th,
 td {
   text-align: left;
-  font-weight: 200; //normal
+  font-weight: normal;
   vertical-align: middle
 }
 
@@ -224,7 +224,7 @@ dt {
   border: 1px solid darken($white, 7%);
   padding: 0.5em;
   background-color: darken($white, 5%);
-  font-weight: 500; //bold
+  font-weight: bold;
 }
 
 dd {
