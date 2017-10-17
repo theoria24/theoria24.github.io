@@ -14,17 +14,17 @@ tags:
 
 [リゼロ](http://re-zero-anime.jp/){:target="_blank"}、面白いですよね。
 
-![Re:ゼロから始める異世界生活](http://theoria24.github.io/images/rezero1.png "Logo")
+![Re:ゼロから始める異世界生活]({{site.url}}/images/rezero1.png "Logo")
 
 で、このタイトルロゴ。
 
-![タイトル再現](http://theoria24.github.io/images/rezero2.png)
+![タイトル再現]({{site.url}}/images/rezero2.png)
 
 再現しました。
 
 使ったフォントはこの通り
 
-![フォント](http://theoria24.github.io/images/rezero3.png)
+![フォント]({{site.url}}/images/rezero3.png)
 
 - [モリサワ](http://www.morisawa.co.jp/){:target="_blank"}
   - [ゴシックMB101 DB](http://www.morisawa.co.jp/fonts/specimen/1198){:target="_blank"}
@@ -42,10 +42,10 @@ tags:
 
 また、
 
-![次回予告](http://theoria24.github.io/images/rezero4.png)
+![次回予告]({{site.url}}/images/rezero4.png)
 
 このように次回予告のフォントも同じなので自由に次回予告することができます。
 
-![死に至る病、そして](http://theoria24.github.io/images/rezero5.png)
+![死に至る病、そして]({{site.url}}/images/rezero5.png)
 
 おしまい

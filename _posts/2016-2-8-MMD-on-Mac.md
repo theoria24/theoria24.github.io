@@ -52,7 +52,7 @@ Blender、Metasequoiaはモデリング用っぽい（偏見）のでまた今�
 
 アプリを立ち上げるとこんな感じ
 
-![nanoem](http://theoria24.github.io/images/nanoem.png)
+![nanoem]({{site.url}}/images/nanoem.png)
 
 とりあえずあんまり凝ったもの作るのもめんどくさい()ので手元にあった[おんだ式 ハッカドール1号](http://3d.nicovideo.jp/works/td23472)を開いてみると…
 

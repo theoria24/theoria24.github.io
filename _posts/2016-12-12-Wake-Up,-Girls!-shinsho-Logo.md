@@ -12,7 +12,7 @@ tags:
   - Wake Up Girls!
 key:
   - 新章
-twimage: http://theoria24.github.io/images/wugnsaigen.png
+twimage: {{site.url}}/images/wugnsaigen.png
 ---
 
 [WUG新章](http://wakeupgirls3.jp/){:target="_blank"}が発表されました。制作陣の変更など色々思うところはあるのですが、確実に変わってしまったものがあります。
@@ -23,20 +23,20 @@ twimage: http://theoria24.github.io/images/wugnsaigen.png
 
 いちばん分かりやすいのは「Ｇ」です。
 <figure class="half">
-  <a href="http://theoria24.github.io/images/wugo.jpg"><img src="http://theoria24.github.io/images/wugo.jpg"></a>
-  <a href="http://theoria24.github.io/images/wugn.png"><img src="http://theoria24.github.io/images/wugn.png"></a>
+  <a href="{{site.url}}/images/wugo.jpg"><img src="{{site.url}}/images/wugo.jpg"></a>
+  <a href="{{site.url}}/images/wugn.png"><img src="{{site.url}}/images/wugn.png"></a>
   <figcaption>Ｇの変化</figcaption>
 </figure>
 ステム（右下の生えてるやつ）が現れました。
 
 この他にも終わりの角度とか太さが多少違います。
 
-[例のように](http://theoria24.github.io/ReZero-logo-font/)再現しました。
+[例のように]({{site.url}}/ReZero-logo-font/)再現しました。
 
 まずは旧ロゴ
 <figure>
   <center>
-    <a href="http://theoria24.github.io/images/wugosaigen.png"><img src="http://theoria24.github.io/images/wugosaigen.png"></a>
+    <a href="{{site.url}}/images/wugosaigen.png"><img src="{{site.url}}/images/wugosaigen.png"></a>
     <figcaption>フォントはArial Black</figcaption>
   </center>
 </figure>
@@ -44,7 +44,7 @@ twimage: http://theoria24.github.io/images/wugnsaigen.png
 続いて新ロゴ
 <figure>
   <center>
-    <a href="http://theoria24.github.io/images/wugnsaigen.png"><img src="http://theoria24.github.io/images/wugnsaigen.png"></a>
+    <a href="{{site.url}}/images/wugnsaigen.png"><img src="{{site.url}}/images/wugnsaigen.png"></a>
     <figcaption>フォントはHelvetica Black</figcaption>
   </center>
 </figure>

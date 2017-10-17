@@ -109,7 +109,7 @@ https://accounts.google.com/なんちゃら
 
 この後スプレッドシートを開くと…
 
-![GoogleSpredSheet](http://theoria24.github.io/images/Ruby-GoogleSpredSheet-1.png){:target="_blank"}
+![GoogleSpredSheet]({{site.url}}/images/Ruby-GoogleSpredSheet-1.png){:target="_blank"}
 
 [動作かくにん！よかった。](http://www.j-cast.com/tv/2014/05/08204104.html){:target="_blank"}
 
