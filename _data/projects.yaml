@@ -3,6 +3,11 @@
   image: http://theoria24.github.io/assets/images/wugnews-unofficial-extension.user.js.png
   completed: true
 
+- title: TootCloud
+  url: https://tc.theoria.work
+  image: http://theoria24.github.io/profile/ico/tc.png
+  completed: true
+
 - title: like2iine
   url: http://theoria24.github.io/like2iine/
   image: http://theoria24.github.io/assets/images/like2iine.png
@@ -10,12 +15,12 @@
 
 - title: ジャックス君
   url: https://twitter.com/jacks_kun
-  image: http://theoria24.github.io/twipro/ico/jacks.jpg
+  image: http://theoria24.github.io/profile/ico/jacks.jpg
   completed: true
 
 - title: ジュリアたん
   url: https://twitter.com/julia__tan
-  image: http://theoria24.github.io/twipro/ico/julia.png
+  image: http://theoria24.github.io/profile/ico/julia.png
   completed: true
 
 #- title: ざんげちゃんbot
