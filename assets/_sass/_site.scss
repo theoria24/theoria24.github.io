@@ -391,7 +391,7 @@ canvas {
 .main-info {
   color: $white;
   h1 {
-    font-weight: bold;
+    font-weight: 500; //bold
     text-transform: uppercase;
     letter-spacing: 1px;
   }
@@ -548,7 +548,7 @@ canvas {
   h4,
   h5,
   h6 {
-    font-weight: bold;
+    font-weight: 500; //bold
     color: rgba($overlay-color, 0.7);
   }
   p {
