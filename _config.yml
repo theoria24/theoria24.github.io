@@ -4,6 +4,7 @@ description: 日々の生活に役立たないメモ
 url: https://theoria24.github.io
 logo: logo.png                                       # Site logo
 locale: ja_JP
+cardimg: cardimg.png
 
 # Left Block Images
 background:
