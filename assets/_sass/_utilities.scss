@@ -101,6 +101,15 @@
       border-color: mix($white, #55acee, 25%);
     }
   }
+  &_mastodon {
+    margin-right: 100px;
+    background-color: #2b90d9;
+    color: $white !important;
+    &:hover {
+      background-color: mix($white, #2b90d9, 25%);
+      border-color: mix($white, #2b90d9, 25%);
+    }
+  }
 }
 a.btn {
   text-decoration: none;
