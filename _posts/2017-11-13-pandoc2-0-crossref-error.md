@@ -16,7 +16,10 @@ MacOS上で[Homebrew](https://brew.sh/){:target="_blank"}でインストール�
 なので、pandoc-crossrefの開発版を入れることにした（Pandocのバージョンを戻せば良いのだが、homebrewでバージョンを戻すのが多少面倒くさくて開発版を入れたほうが早い！となった）。
 
 ### 方法
+
+```--devel```をつけて更新すれば良いです。
 ```
+brew update
 brew upgrade --devel pandoc-crossref
 ```
 なんかすごい時間かかった（今までcabalとか使ってなかったのか）
