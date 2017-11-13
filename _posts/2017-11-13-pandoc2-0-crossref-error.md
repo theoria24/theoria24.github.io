@@ -17,16 +17,16 @@ MacOS上で[Homebrew](https://brew.sh/){:target="_blank"}でインストール�
 
 ### 方法
 
-```--devel``` をつけて更新すれば良いです。
+```--devel```をつけて更新すれば良いです。
 
-   brew update
-   brew upgrade --devel pandoc-crossref
+    brew update
+    brew upgrade --devel pandoc-crossref
 
 なんかすごい時間かかった（今までcabalとか使ってなかったのか）
 
 なぜかリンクが貼られず実行できなかったので
 
-   brew link pandoc-crossref
+    brew link pandoc-crossref
 
 として完了。
 
