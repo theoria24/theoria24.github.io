@@ -17,7 +17,7 @@ MacOS上で[Homebrew](https://brew.sh/){:target="_blank"}でインストール�
 
 ### 方法
 
-```--devel```をつけて更新すれば良いです。
+```--devel``` をつけて更新すれば良いです。
 
 ```
 brew update
