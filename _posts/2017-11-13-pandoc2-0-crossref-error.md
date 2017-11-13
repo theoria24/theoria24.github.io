@@ -11,7 +11,7 @@ tags:
 
 MacOS上で[Homebrew](https://brew.sh/){:target="_blank"}でインストールした[Pandoc](https://pandoc.org/){:target="_blank"}を使っているが、最近Pandocが2.0にアップデートされたので、特に深く考えずに```brew upgrade```したところ図表番号を管理するために使っていた[pandoc-crossref](https://github.com/lierdakil/pandoc-crossref){:target="_blank"}が動かなくなってしまった。
 
-数日後にpandoc-crossrefにもアップデートが来ていたのでこれで動くだろうと思ってアップデートするも動かず。pandoc-crossrefは **v0.2.7.0** にアップデートされましたが、pandoc-crossrefのGitHubを見ると```Pandoc 2.0 support```となっているのは **v0.3.0.0-beta** から。
+数日後にpandoc-crossrefにもアップデートが来ていたのでこれで動くだろうと思ってアップデートするも動かず。pandoc-crossrefは **v0.2.7.0** にアップデートされたのだが、pandoc-crossrefのGitHubを見ると```Pandoc 2.0 support```となっているのは **v0.3.0.0-beta** から。
 
 なので、pandoc-crossrefの開発版を入れることにした（Pandocのバージョンを戻せば良いのだが、homebrewでバージョンを戻すのが多少面倒くさくて開発版を入れたほうが早い！となった）。
 
