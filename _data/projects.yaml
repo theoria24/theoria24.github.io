@@ -1,11 +1,16 @@
-- title: wugnews-unofficial-extension.user.js
-  url: https://theoria24.github.io/wugnews-Unofficial-Extension/
-  image: https://theoria24.github.io/assets/images/wugnews-unofficial-extension.user.js.png
-  completed: true
-
 - title: TootCloud
   url: https://tc.theoria.work
   image: https://theoria24.github.io/profile/ico/tc.png
+  completed: true
+
+- title: Animetick to Mastodon
+  url: https://github.com/theoria24/animetick-to-mastodon
+  image: https://user-images.githubusercontent.com/17396689/32841230-1d1cfec0-ca5d-11e7-831d-a6825c47b7b9.png
+  completed: true
+
+- title: wugnews-unofficial-extension.user.js
+  url: https://theoria24.github.io/wugnews-Unofficial-Extension/
+  image: https://theoria24.github.io/assets/images/wugnews-unofficial-extension.user.js.png
   completed: true
 
 - title: like2iine
