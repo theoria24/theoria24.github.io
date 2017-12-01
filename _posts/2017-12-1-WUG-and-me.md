@@ -1,0 +1,243 @@
+---
+layout: post
+title: Wake Up, Girls!との出会い、これまで、これから
+categories:
+  - Anime
+tags:
+  - Anime
+  - WUG
+  - Wake Up Girls!
+key:
+  - アドベントカレンダー
+---
+
+この記事は[Wake Up, Girls! Advent Calendar 2017](https://adventar.org/calendars/2232){:target="_blank"} の1日目の記事です。  
+明日はtkusanoさんの予定です。
+
+自分で立てた企画なのに遅れてしまってすみません。
+
+自分語りみたいな記事になってしまったのであんまり期待しないで読んで下さい。<span style="font-size:70%;opacity:0.7;">（いちばん言いたいことは[Wugtodon](https://wug.fun){:target="_blank"}よろしくねってことなのでそれだけでも覚えて帰っていただけると幸いです）</span>
+
+## WUGとの出会い
+
+僕のWUGとの出会いについて、正確なことは忘れたのですが、このコンテンツを応援していきたい！と確実に思ったのは2013年12月〜2014年1月にさくら野百貨店仙台店で開催されていた『聖地巡礼展in仙台』だったはずです。さくら野百貨店仙台店も今はもうなくなってしまった…
+
+当時僕は仙台市内に住んでいたので、どこかでWUGのことは目にしていた気がするのですが、聖地巡礼展より前の記憶は定かでありません。
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">12月4（水）日より、25日（水）から始まる聖地巡礼展のプレイベントがさくら野百貨店6Fで開催致します！皆様是非お越しください！　<a href="https://twitter.com/hashtag/seichi_sendai?src=hash&amp;ref_src=twsrc%5Etfw">#seichi_sendai</a> <a href="https://twitter.com/hashtag/%E8%81%96%E5%9C%B0%E5%B7%A1%E7%A4%BC%E5%B1%95in%E4%BB%99%E5%8F%B0?src=hash&amp;ref_src=twsrc%5Etfw">#聖地巡礼展in仙台</a> <a href="http://t.co/l39sBzhdAo">pic.twitter.com/l39sBzhdAo</a></p>&mdash; 聖地巡礼展in仙台スタッフ (@seichi_info) <a href="https://twitter.com/seichi_info/status/406250252866301952?ref_src=twsrc%5Etfw">2013年11月29日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+（現在、公式サイトは消滅してしまったので[Internet Archiveのリンク](https://web.archive.org/web/20161011234151/http://seichijyunreiten.com/){:target="_blank"}を載せておきます…）
+
+そこにはこんなパネルがあって
+<figure>
+  <a href="{{site.url}}/images/wug-and-me/junreiten.jpg"><img src="{{site.url}}/images/wug-and-me/junreiten.jpg"></a>
+</figure>
+
+当時は仙台に住んでいたので、パネルの中にある風景がとても身近に感じて、興味を持ったんだと思います。
+
+また、そこにはブラウン管テレビが置いてあって、WUGのティザーPVも流れていました。
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eVI8CGAMbYQ?rel=0" frameborder="0" allowfullscreen></iframe>
+
+未だにうまく説明できないんですが、僕はこの動画がとても気に入って、絶対見ようと思いました。
+
+年が明けて2014年1月10日。Wake Up, Girls! 七人のアイドルが公開されました。当日、学校が終わってから友人を連れてMOVIX仙台まで舞台挨拶に行きました。
+
+<figure>
+  <a href="{{site.url}}/images/wug-and-me/koukaibi.jpg"><img src="{{site.url}}/images/wug-and-me/koukaibi.jpg"></a>
+</figure>
+
+この日初めてWUGちゃんたちを生で見ました。声優さんを生で見ること自体が初めてだったかもしれません。
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">本日のMOVIX仙台：舞台挨拶の模様を。<br>平日にも関わらず、これだけの方にお越し頂きました。誠にありがとうございます！<a href="https://twitter.com/hashtag/WUG_JP?src=hash&amp;ref_src=twsrc%5Etfw">#WUG_JP</a> <a href="http://t.co/vr0gCjjTNN">pic.twitter.com/vr0gCjjTNN</a></p>&mdash; Wake Up, Girls！新章 (@wakeupgirls_PR) <a href="https://twitter.com/wakeupgirls_PR/status/421707898549313536?ref_src=twsrc%5Etfw">2014年1月10日</a></blockquote>
+
+今見直したら自分がすごい笑顔で写っててこっちまで笑顔になってしまった。
+
+本当に見慣れた景色がアニメになっていて感動したりこの子達を応援したいと思ったりしました。あとタチアガレ！が最高でした。これは何か買っておかなければと思って岡本未夕ちゃんのタオルだけ買って帰りました。金欠なので…（今も）
+
+帰りに仙台駅を経由したのでここ松田が寝てたベンチやん！とかいって友人と盛り上がったりして。初日から聖地巡礼してましたね…
+
+## TVシリーズ放映時
+
+毎話毎話見たことのある景色が出てくるので、毎週のように聖地巡礼をしていました。EDで流れる景色に通学路があったので今風に言うと「エモい」って感じでした。
+
+<figure>
+  <a href="{{site.url}}/images/wug-and-me/greenleaves.jpg"><img src="{{site.url}}/images/wug-and-me/greenleaves.jpg"></a>
+  <figcaption>雪が降る中歩きまわったり</figcaption>
+  <a href="{{site.url}}/images/wug-and-me/kaya.jpg"><img src="{{site.url}}/images/wug-and-me/kaya.jpg"></a>
+  <figcaption>こんな所でアルバイトしてたんだなぁと思ったり</figcaption>
+  <a href="{{site.url}}/images/wug-and-me/mayu.jpg"><img src="{{site.url}}/images/wug-and-me/mayu.jpg"></a>
+  <figcaption>それなりに遠くにあるまゆしぃの家まで行ってこの距離走ってきたのか…すごいな…と思ったり</figcaption>
+</figure>
+
+ただTV放映時は作画がちょっと微妙だったのは確かで、当時はまだまとめサイトとかを巡回したりしていたのでとても苦しい気持ちになったりしていました。途中、監督がTwitterでスタッフを募集したときには不安になったりもしました。
+
+そのたびに思い浮かんで来たのはタチアガレ！の歌詞で、
+
+> もっと　もっと　想い伝えたい  
+> どれだけ傷ついても譲れないものがある  
+> 聴いて　聴いて　必死に歌うから  
+> 嗤われてもいい　負けはしない  
+> タチアガレ!
+
+WUGの劇中歌には制作者の想いが込められているような気がして、WUGを信じたいと思わせられました。
+
+<figure>
+  <a href="{{site.url}}/images/wug-and-me/ema.png"><img src="{{site.url}}/images/wug-and-me/ema.png"></a>
+  <figcaption>青葉神社で神に祈ったりもした（字が汚い…）</figcaption>
+</figure>
+
+そんな中で迎えた９話。
+
+僕は宮城県出身ですが、住んでいたところは震災の被害は大きくなかったのと、なんとなく避けていたのがあり、震災と向き合うということをあまりしないでいました。
+
+僕が最近でも被災地を訪れている理由には少なからずWUGの存在があります。WUGには感謝しなければなりません。
+
+<figure>
+  <a href="{{site.url}}/images/wug-and-me/yataimura.jpg"><img src="{{site.url}}/images/wug-and-me/yataimura.jpg"></a>
+  <figcaption>今は閉村してしまった復興屋台村気仙沼横丁。9話にも登場する。</figcaption>
+</figure>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="und" dir="ltr"><a href="https://t.co/hfKRFVX2zH">pic.twitter.com/hfKRFVX2zH</a></p>&mdash; ておりあ (@_theoria) <a href="https://twitter.com/_theoria/status/840768809032077312?ref_src=twsrc%5Etfw">2017年3月12日</a></blockquote>
+
+閉村する直前の写真。WUGのポスターと共に感謝のメッセージが。
+
+## ステ天
+
+忘れていましたが、放送前からMobageにて、ソシャゲ『Wake Up, Girls! ステージの天使』が配信されていました。
+
+<figure>
+  <a href="{{site.url}}/images/wug-and-me/suteten.png"><img src="{{site.url}}/images/wug-and-me/suteten.png"></a>
+</figure>
+
+アニメなどで語られなかったエピソードもあり、それなりに楽しんでプレイしていました。ステ天キャラでは[八木愛子ちゃん](https://twitter.com/yagiaiko){:target="_blank"}が推しです。
+
+オリジナルキャラがアニメに登場したりもしましたが、2014年12月にはサービス終了してしまいました…今後どこかで再登場してくれたらうれしいなぁ。
+
+## 2ndツアー
+
+TVアニメが放送を終えてからは私生活が忙しかったのもあってなんとなくWUGからは離れてしまいました。諸々の忙しさが一段落した2015年。2nd Live Tour「行ったり来たりしてごめんね！」の千秋楽・仙台公演に参加しました。続劇場版の公開も決まっていて、まだまだ終わらないんだと思うと嬉しかったです。
+
+WUGの本格的なライブを生で見るのはこれが初めてでした。昼公演だけのつもりだったのですが、昼公演が最高すぎて夜公演までの間にチケットを譲ってくれる方を見つけて夜も参加しました。あのとき連絡をくださったワグナーさんには感謝しかありません。
+
+昼公演で山下七海さんと目が合って推し増ししました。はぁ…
+
+あと高木美佑さんが『WOO YEAH!』の「アリーナや2階席や3階席も 見える！今はまだエアだけど」のところを「今はもうエアじゃなーい！」と歌っていたのがハイパーリンク的に嬉しかったです。たぶんこのときが初出。
+
+夜公演では、アンコール終了後にもWake Up, Girls!コールが上がったのが印象深いです。あのときのコールはTVシリーズのアイドルの祭典で会場全体がWUGコールに包まれるのと重なってエモかった…
+
+この時にバスツアーや『Wake Up, Girls! Festa.2015 Beyond the Bottom Extend』の開催が発表され、いろいろな形で活動が続いていくのが希望を感じました。
+
+<span style="font-size:80%;opacity:0.7;">（パズルの天使もこのあたりでしたっけ。ステ天キャラ出るのかなとかワクワクしてたんだけどなぁ…）</span>
+
+## 続劇場版
+
+続劇場版 前篇『青春の影』と後篇『Beyond the Bottom』が公開され、久々に2次WUGちゃんの動いてしゃべる様子が見られ嬉しかったです。僕はアニメからWUGに興味を持ったので…
+
+前篇は全員が全員迷走していて うーん🤔🤔🤔 という感じでしたが、後篇ではしっかりまとまっていて良かったです。（若干の尺不足感はありましたが）
+
+後篇公開翌日には『Wake Up, Girls! Festa.2015 Beyond the Bottom Extend』が開催されました。
+
+ホームラン対決やらベスト盤２の発表やらあって、BtBで会場が白のサイリウムで染まったり、最後にまゆしぃが「まだまだ終わりたくない！応援してください！」的なことを言って涙していたのがアツかったです。
+
+<span style="font-size:60%;opacity:0.7;">（正直なことを言うと個人的にはこのイベントは満足度がだいぶ低くて、こんなに声優呼んでバット振り回しただけで帰らせたりで何がやりたかったんやという感じもあります。あと映画公開翌日って、日程もうちょいなんとかならなかったのか…WUGはいつもそうだぞ）</span>
+
+最後の最後に新プロジェクト始動の告知があり、アニメWUGも声優ユニットとしてのWUGもまだまだ終わらないのだと分かり、希望が持てました。来年の秋とかにまたアニメが見られるのかなと楽観的に考えていました。
+
+## 空白期間
+
+2016年に入ると、i☆Risさんとの合同ライブやらソロイベやらはありましたが、それほど大きな動きはない（個人の感想）まま『3rd LIVE TOUR あっちこっち行くけどごめんね！』を迎え、仙台公演と千秋楽の東京公演に参加しました。
+
+仙台公演前日には勾当台公園野外音楽堂にて行われた「KHB七夕フェスタ」にてフリーライブが行われ、ついにこのステージに声優ユニットとしてのWUGが立ったのかと思うとアツくて、まだこの子たちには終わってほしくないと思ったものでした。
+
+タイミングは忘れましたがこのあたりで舞台も発表されたんでしたかね。メンバー個人個人も他のアニメに出演したりでアニメはできなくても、この子たちの活躍はまだ見られるんだ、と思い希望が持てました。
+
+そんな感じで迎えた千秋楽東京公演。もう生バンドとかでアツかったのは当然なんですが、ここで発表されたのが、アニメ『灼熱の卓球娘』EDテーマ『僕らのフロンティア』<span style="font-size:60%;opacity:0.7;">（情報がそれより前から漏れてたとかありましたけど…）</span>
+
+このあたりでアニメWUG続編の望みは薄そうだし、WUG解散したらどうしよう…的なことを考え始めていた僕は、これで声優ユニットWUGはまだやっていけると思って大変うれしかった記憶があります。<span style="font-size:60%;opacity:0.7;">（少し経ってからアニメWUGはもうやらないのかなぁとかネガティブなことも浮かんできて感情が忙しかった）</span>
+
+「灼熱の卓球娘」には田中美海さんがメインキャラで出演した他、高木美佑さんらもちょっとした役で出演されていて良かったです。それ以前に普通におもしろいアニメだったのでタイアップできて良かったなぁと思いました。個人的に好きなのは由良木ゆら（CV.青山吉能）ですね…なんかよくわからんけど好き……
+
+これでアニメタイアップへの道が開かれたわけで、Wake Up, May'n!とかへ続く道のスタートだったんだよなぁ。
+
+3rdツアー千秋楽では『Wake Up, Girls! Festa.2016 SUPER LIVE』も発表されて、12月の幕張WUGフェスも恒例になったなぁという感じでした。東北のイオンとタイアップするのもこのとき発表されてた気がするんですけど、アニメタイアップのインパクトが大きくて誰も話してなかった気がする🤔  
+未だに東北地方ではイオンのCMにWUGちゃんが出ています。ありがたいなぁ。
+
+12月には当然のように幕張メッセに行きました。さすがに運営も2015年のWUGフェスには反省したのか、歌がメインの感じで圧倒されました。
+
+その最後に発表されたのが『Wake Up, Girls! 新章』でした。
+
+監督やキャラデザ、制作会社が変わっており衝撃的でした。神前さんがいたのでなんとか耐えられた。  
+それに合わせてwug-portalの色が変わったりしました。後から気づいたのですが、[ロゴのフォントも変わっていました](/Wake-Up,-Girls!-shinsho-Logo/){:target="_blank"}。
+
+もうアニメはやららないのかなぁとほとんど諦めていたのでうれしいような複雑な気持ちでした。
+
+## 2017年のまとめ
+
+アドベントカレンダーなので（？）今年をまとめます。
+
+といっても僕は今年あまり活動できていないので、あまり深い話はできないです…
+
+### 舞台『Wake Up, Girls！ 青葉の記録』
+
+参加していません。
+
+待田堂子さんの脚本が好きなので行きたかった（）  
+Knock outって出逢いの記録で岡本未夕が言ってた曲やん！エモ！
+
+### AEONプレゼンツ がんばっぺ岩手！Wake Up, Girls！チャリティ・ミニコンサート
+
+参加しました。
+
+かやたん…地元でライブできてよかったね……
+
+恋？で愛？で暴君です！初めて生で聴いたのかな。楽しい曲。  
+TUNAGO…いい曲だ……
+
+### Wake Up, Girls！ 4th LIVE TOUR｢ごめんねばっかり言ってごめんね！」
+
+いろいろ忙しくて仙台公演昼夜しか行けてません…
+
+旧アニメの映像から新章の曲に繋いでいくやつで泣いてしまった。
+
+あとTUNAGOの映像が良すぎる。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vmTHs9RAvaU" frameborder="0" allowfullscreen></iframe>
+
+　
+
+『Crazy Noisy Bizarre Town』、ジョジョもWUGも仙台を盛り上げていけたらいいなぁ。
+
+他の会場に行った人の投稿を見ると、回を重ねるごとに最高を更新していたらしいのですごいなぁ。余裕が出たら遠くの会場にも行きたい。
+
+あとTUNAGOの映像が良すぎたので、聖地巡礼をしました。上の映像が公開される前で2回しか見ていなかったので、あまり分からなかったですが、石巻は普通に楽しめたので行って良かったです。
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">今日のTUNAGOの撮影地巡礼のまとめです <a href="https://t.co/QlaoVM407P">https://t.co/QlaoVM407P</a></p>&mdash; ておりあ (@_theoria) <a href="https://twitter.com/_theoria/status/899206620663603200?ref_src=twsrc%5Etfw">2017年8月20日</a></blockquote>
+
+TUNAGO MV (short ver.)ってことはどこかでFull出るのかなぁ。待ち遠しい。
+
+### 新章
+
+Wake Up, Girls！新章が放送中です。正直クオリティー的な話はまだまだという感じですが、アニメからWUGに入った僕としては、島田真夢が、林田藍里が、片山実波が、七瀬佳乃が、久海菜々美が、菊間夏夜が、そして岡本未夕が動いてしゃべるのはほんとうに嬉しいことです。
+
+1期も作画は崩れることもありましたし、評価は終わってからという感じで今はとにかく久しぶりに活躍する2次WUGちゃんたちの姿を楽しみたいと思っています。
+
+### その他
+
+WUGメンバーが他作品に出ることも多くなりましたね。うれしいことです。アニメガタリズの戸田茉莉の感じ好き。
+
+## 宣伝
+
+
+今年7月に Wake Up, Girls！が好きな人のためのMastodonインスタンス Wugtodon（[wug.fun](https://wug.fun){:target="_blank"}） を開設しました。
+
+Mastodonには、投稿可能な文字数が500文字とTwitterに比べて長いこと、CWという警告文をつけて本文を隠す機能や画像を隠す機能がありネタバレなどに配慮できること、投稿ごとに公開範囲が指定できること、ローカルタイムラインというサーバー内のユーザーが公開した投稿全てが流れるTLがあり様々な人の投稿が見られることなどの特徴があります。これは、アニメなどのネタバレを防ぎたいときや、感想や情報をまとめて書きたいときなどに便利だと思います。ログインしなくてもローカルタイムラインを見ることができるようになっていますので、ぜひ覗いてみてください。
+
+<iframe src="https://wug.fun/@theoria/99054105014784526/embed" class="mastodon-embed" style="max-width: 100%; border: 1px solid #e1e8ed; border-radius: 5px;" width="400"></iframe><script src="https://wug.fun/embed.js" async="async"></script>
+
+よろしくお願いします。
+
+### これから
+
+来週の『Wake Up, Girls！Festa.2017 TRINITY』には参加します。現地行かれる方、よろしくお願いします。
