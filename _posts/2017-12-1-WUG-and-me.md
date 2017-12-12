@@ -7,6 +7,7 @@ tags:
   - Anime
   - WUG
   - Wake Up Girls!
+  - mastodon
 key:
   - アドベントカレンダー
 ---
