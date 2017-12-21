@@ -33,7 +33,7 @@ Wugtodon（[wug.fun](https://wug.fun){:target="_blank"}）という[アニメ](h
 また、Mastodon関係では以下のようなものを作っています。
 <blockquote class="embedly-card"><h4><a href="https://github.com/theoria24/animetick-to-mastodon">theoria24/animetick-to-mastodon</a></h4><p>animetick-to-mastodon - 視聴したアニメをAnimetickからMastodonに投稿しやすくするユーザースクリプト</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-<blockquote class="embedly-card"><h4><a href="https://tc.theoria.work/">TootCloud</a></h4><p>TootCloudはあなたのトゥートからワードクラウドを作成するWebサービスです。</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://tootcloud.ml/">TootCloud</a></h4><p>TootCloudはあなたのトゥートからワードクラウドを作成するWebサービスです。</p></blockquote>
 TootCloudは[ITmedia](http://www.itmedia.co.jp/news/articles/1710/09/news030.html){:target="_blank"}に取り上げられたりもしました。
 
 どちらも自分が欲しくて作ったものなのであまり出来は良くないですが…
