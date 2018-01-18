@@ -12,6 +12,8 @@ tags:
   - Wake Up Girls!
 key:
   - 新章
+  - ロゴ
+  - フォント
 twimage: https://theoria24.github.io/images/wugnsaigen.png
 ---
 
@@ -54,3 +56,30 @@ twimage: https://theoria24.github.io/images/wugnsaigen.png
 個人的には古い方だとWの下とUの上が揃っていたのでそっちのほうが好きです。
 
 アニメがどうなるかはわかりませんが、見てみないとなんとも言えないと思っています。願わくば、前制作陣の伝えたかったものを受け継いでくれたらなあと思います。以上です。
+
+## 2018年1月18日追記
+BDの背を見て気づいた人が言っていて分かったのですが、どうやら横書きロゴのフォントも変わっているようです。再現しました。
+
+旧ロゴ
+
+<figure>
+  <center>
+    <a href="https://i.imgur.com/eJNYIuI.png"><img src="https://i.imgur.com/eJNYIuI.png"></a>
+    <figcaption>フォントはImpact™ Bold Condensed</figcaption>
+  </center>
+</figure>
+
+新ロゴ
+
+<figure>
+  <center>
+    <a href="https://i.imgur.com/CQ1uwqQ.png"><img src="https://i.imgur.com/CQ1uwqQ.png"></a>
+    <figcaption>フォントは Helvetica® Black Condensed</figcaption>
+  </center>
+</figure>
+
+全体的に横に広がってる感じがします。新章はHelveticaで統一した感じですかね。
+
+クレジットが「３」製作委員会でも一部、古いロゴが使われているものがあります（例：ぺらじ）。後々変わっていくのかなぁと思います。
+
+ちなみに、『新章』の部分のフォントはたぶんヒラギノ明朝W6です。
