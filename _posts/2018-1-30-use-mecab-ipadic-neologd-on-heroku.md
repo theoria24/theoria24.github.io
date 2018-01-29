@@ -22,14 +22,12 @@ mastodon上で俳句を検出するbotを作ったのでHerokuで動かしてい
 
 Procfileは1行しか書けないですがbashを起動すれば複数のコマンドを実行できるようです。以下のように書きました。参考程度に
 
-```Procfile
-bot: bash start.sh
-```
+### Procfile
+    bot: bash start.sh
 
-```start.sh
-sed -i -e 's/ipadic/mecab-ipadic-neologd/g' .linuxbrew/etc/mecabrc
-bundle exec ruby main.rb
-```
+### start.sh
+    sed -i -e 's/ipadic/mecab-ipadic-neologd/g' .linuxbrew/etc/mecabrc
+    bundle exec ruby main.rb
 
 以上でmecab-ipadic-NEologdが使えるようになりました。おかげでbotの語彙力が増えました。
 
