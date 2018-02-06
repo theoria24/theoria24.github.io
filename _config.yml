@@ -63,7 +63,7 @@ croudia:            theoria
 disqus: disqus_GcrjMlrWvK
 
 # Gems
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
