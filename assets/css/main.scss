@@ -8,14 +8,10 @@ sitemap: false
 .sponsor {
   padding: 20px;
 }
-.fa-mastodon {
-  height: 12px;
-  vertical-align: middle;
-}
 @import "base";
 @import "site";
 @import "utilities";
 @import "syntax";
 @import "vendor/fonts";
-@import "vendor/font-awesome/font-awesome";
+@import "vendor/fork-awesome/fork-awesome";
 @import "vendor/magnific-popup/magnific-popup";
