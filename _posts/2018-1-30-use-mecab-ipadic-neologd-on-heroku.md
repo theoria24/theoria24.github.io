@@ -12,6 +12,11 @@ key:
   - heroku
 ---
 
+## 1/31 追記
+結局色々問題があってVPSに移しました。[他の用途](https://tootcloud.ml/){:target="_blank"}でNEologd入りの環境があったのでそこで動かしています。しばらくこれで様子をみます。
+
+（追記ここまで）
+
 mastodon上で俳句を検出するbotを作ったのでHerokuで動かしています（[@find575@theboss.tech](https://theboss.tech/@find575){:target="_blank"}、[GitHub](https://github.com/theoria24/FindHaiku4Mstdn){:target="_blank"}）。動かす際に[MeCab](http://taku910.github.io/mecab/){:target="_blank"}を使うので、[このあたり](https://qiita.com/shouta-dev/items/cd538a77f2b729333025){:target="_blank"}を参考にして入れました。
 
 しかしどうも語彙が足りないようなので、いつもお世話になっている[mecab-ipadic-NEologd](https://github.com/neologd/mecab-ipadic-neologd){:target="_blank"}をなんとか入れたので覚え書きを。
@@ -34,6 +39,3 @@ Procfileは1行しか書けないですがbashを起動すれば複数のコマ�
 しかし、「古池や蛙飛び込む水の音」が「フルイケ, ヤ, カエル, トビコミ, ムスイ, ノ, オト」になってしまったりで５７５と認識されなくなってしまったので、文字数を数えるにはどうかなぁ🤔という感じです。
 
 うーん🤔何かいい方法をご存知の方は教えてください。
-
-## 1/31 追記
-結局色々問題があってVPSに移しました。[他の用途](https://tootcloud.ml/){:target="_blank"}でNEologd入りの環境があったのでそこで動かしています。しばらくこれで様子をみます。
