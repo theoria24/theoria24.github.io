@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mastodonのお気に入り登録ボタンを寿司に変えるユーザースタイルシート『like2sushi4mstdn.css』を作った
+title: mastodonのお気に入り登録ボタンを寿司に変える
 categories:
   - technology
 tags:
