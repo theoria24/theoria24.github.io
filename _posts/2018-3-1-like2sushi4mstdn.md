@@ -28,12 +28,18 @@ Stylish（[Chrome](https://chrome.google.com/webstore/detail/stylish-custom-them
 
 [Gist](https://theboss.tech/@AnonymousPost){:target="_blank"}からコピペしてもいいでしょう（以下のカスタマイズが楽です）。
 
-### カスタマイズ例
+### カスタマイズ
 人間生きていれば、お気に入り登録ボタンを🍣以外に変えたくなることもあるでしょう。
 
 そういう場合、`https://twemoji.maxcdn.com/36x36/1f363.png`を目的の画像に置き換えると実現できます。
 
 絵文字であれば、変えたい絵文字のUnicodeのコードポイントをなんとかして調べて`1f363`を置換すると良いでしょう。<small>（[Unicode コードポイント変換 - ちょびつーる](http://chobitool.com/unicodepoint/){:target="_blank"}というのを見つけました。）</small>小文字にしてください。
+
+### 例
+以下のような活用がされています
+- https://pawoo.net/@pacochi/99520937732120818
+- https://kurage.cc/@yi0713/99522560479408613
+- https://gamelinks007.net/@S_H_/99523580722473183
 
 ### 作るに至ったあれこれ
 かつて、Twitterの⭐️が❤️になってしまったときに、🍣にするChrome Extension（[mzyy94/like2sushi](https://github.com/mzyy94/like2sushi){:target="_blank"}）が存在し、フォークして遊んだりしていました。ふと懐かしくなって見に行ったらアーカイブ化されており、悲しくなったのでmastodonで似たようなもん作ろうと思いました。
