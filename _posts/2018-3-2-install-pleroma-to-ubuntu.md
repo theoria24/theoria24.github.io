@@ -122,7 +122,7 @@ GitLabからソースコードを取ってきて、
 
 設定ファイルにはデータベースのパスワードなどが生成されているので、確認しておきましょう。
 
-その後、`generated_config.exs`を`prod.secret.exs`にリネームしましょう。
+その後、`generated_config.exs`を`prod.secret.exs`にリネームします。
 
     mv config/{generated_config.exs,prod.secret.exs}
 
@@ -142,7 +142,7 @@ GitLabからソースコードを取ってきて、
 
 `http://[ドメイン名]:4000`でアクセスできる（？）。ローカルなら`http://0.0.0.0:4000`？
 
-終了は<key>ctrl</key>+<key>c</key>。
+終了は<kbd>ctrl</kbd>+<kbd>c</kbd>。
 
 ### nginxの設定
 まずnginxを入れます。<small>（このあたりでrootに戻っておくとよい）</small>
