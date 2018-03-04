@@ -192,9 +192,9 @@ mastodonにおける`/about`のようなページはないので、規約の類�
 
 また`/home/pleroma/pleroma/priv/static/static/config.json`を編集し、`"showInstanceSpecificPanel"`を`true`にすると、サイドメニューの下にパネルを表示できる。これは`/home/pleroma/pleroma/priv/static/instance/panel.html`を編集することで、内容を変更できる。
 
-`mix set_moderator username [true|false]`でモデレーターを指定/解除できる。モデレーターは、あらゆる投稿を削除できる。
+<!-- `mix set_moderator username [true|false]`でモデレーターを指定/解除できる。モデレーターは、あらゆる投稿を削除できる。
 
-`mix generate_password_reset username`によってパスワードリセット用のリンクを作成できる。
+`mix generate_password_reset username`によってパスワードリセット用のリンクを作成できる。-->
 
 ## 感想
 設定ファイルがあらかじめ用意されているのでとても簡単に建てられた感じがある。
