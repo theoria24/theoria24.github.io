@@ -8,13 +8,15 @@
   <style media="screen">
     .code {background-color: gray;}
   </style>
-  <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
   <script type="text/javascript">
-    $('.code').text(location.search.slice(6))
+   $(document).ready(function(){
+    $('.code').html('<p>アプリに戻って<span class="code">' + location.search.slice(6) + '</span>を入力してください。');
+  });
   </script>
 </head>
 <body>
-  <p>アプリに戻って<span class="code"></span>を入力してください</p>
+  <p class="code"></p>
 </body>
 
 </html>
