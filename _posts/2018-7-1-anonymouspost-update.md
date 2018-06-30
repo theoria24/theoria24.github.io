@@ -57,4 +57,4 @@ theboss.tech内のユーザーに対しては，@AnonymousPost経由でリプラ
 とすることで4つの投稿を指定できます．
 
 ### その他
-わからないことがあれば [@theoria@theboss.tech](https://theboss.tech/@theoria){:target="_blank"} にお尋ねください．要望などもここに送ってください．[GitHub](https://github.com/theoria24/AnonymousPost4Mstdn){:target="_blank"} にissueなど立てていただいてもかまいません。プルリクもお待ちしております。
+わからないことがあれば [@theoria@theboss.tech](https://theboss.tech/@theoria){:target="_blank"} にお尋ねください．要望などもここに送ってください．[GitHub](https://github.com/theoria24/AnonymousPost4Mstdn){:target="_blank"} にissueなど立てていただいてもかまいません．プルリクもお待ちしております．
