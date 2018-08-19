@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AnonymousPostの更新
+title: AnonymousPostの解説
 categories:
   - technology
 tags:
@@ -8,6 +8,8 @@ tags:
   - Ruby
   - mastodon
 ---
+
+利用規約は[こちら](https://theoria24.github.io/anonymouspost-agreement/){:target="_blank"}にあります。
 
 こんにちは．クソbot製作者のておりあです．
 
