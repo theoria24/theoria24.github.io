@@ -116,8 +116,7 @@ HP: [http://himotehouse.com](http://himotehouse.com/){:target="_blank" rel="noop
 
 ### でびどる！
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">大変お待たせ致しましたTVアニメ「コチンPa!」第３シリーズ、<br>TVアニメ「でびどる！」2018年10月4日より<br>TOKYO MX･dアニメストア他にて毎週木曜日25:05放送！<br>遂に各メディア様より本日より告知解禁です！！<br><br>このあと、色々と内容についてお話していきます♪<br>ぜひフォローして下さいね！！ <a href="https://t.co/iqZOh3n83n">pic.twitter.com/iqZOh3n83n</a></p>&mdash; TVアニメ「でびどる！」 (@AnimeDevidol) <a href="https://twitter.com/AnimeDevidol/status/1039014989040766976?ref_src=twsrc%5Etfw">2018年9月10日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gyDFoIbxB34?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 HP: [https://devidol.com](https://devidol.com/){:target="_blank" rel="noopener"}
 
