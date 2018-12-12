@@ -183,3 +183,7 @@ WUGが放送されていた当時、私は仙台に住んでいましたが、WU
   <a href="https://i.imgur.com/dHlYsMe.png"><img src="https://i.imgur.com/dHlYsMe.png"></a>
   <figcaption>『アニメガタリズ』より</figcaption>
 </figure>
+
+こんな感じです。チョイスは適当です。ちゃんとしたカメラがほしい。
+
+本当に最後までお付き合いいただきありがとうございました。アスタルテゆるゆるアドベントカレンダー、明日はえんだまどかさんの予定です。
