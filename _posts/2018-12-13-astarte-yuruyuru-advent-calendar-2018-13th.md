@@ -10,8 +10,6 @@ tags:
   - diary
 key:
   - アドベントカレンダー
-image:
-  - https://i.imgur.com/vUBVLUo.png
 ---
 
 この記事は **アスタルテゆるゆるアドベントカレンダー** 13日目の記事です。昨日は古山キリヲさんの **[東方Project『空白の三年間』についての考察](https://docs.google.com/document/d/1eAMrvO-73dmhYRYPp55OCwIU5Y3r-09XSgdzn4gL_1g/edit?usp=sharing){:target="_blank" rel="noopener"}** でした
