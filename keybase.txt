@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/theoria
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://theoria24.github.io
+  * I am theoria (https://keybase.io/theoria) on keybase.
+  * I have a public key with fingerprint 062D 7B5D 9B4B 9FEC 5C6C  6F44 D285 CB52 AC9B B29E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cadb1984ae82d8a52ebe4889b0d0dfd2f177eae2a0907c7722d2978b636af9930a",
+      "fingerprint": "062d7b5d9b4b9fec5c6c6f44d285cb52ac9bb29e",
+      "host": "keybase.io",
+      "key_id": "d285cb52ac9bb29e",
+      "kid": "010163937d87536bba39461b8359a8a2c12b29131f0d420a6b2f27b13e42988baf2c0a",
+      "uid": "9607845296539f4558d53049a7708519",
+      "username": "theoria"
+    },
+    "merkle_root": {
+      "ctime": 1545335749,
+      "hash_meta": "9b58110af1c621d05e0965c9f3604f098b115f2eea0590f13ca121b34eb3305d",
+      "seqno": 4176869
+    },
+    "revoke": {
+      "sig_ids": [
+        "9262aecdb2ed78602533d2dcfd036b1b8abf57a8c1fe38bd11a9d92a596bb8100f"
+      ]
+    },
+    "service": {
+      "hostname": "theoria24.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1545335757,
+  "expire_in": 157680000,
+  "prev": "a120e1f180a4f787914ed435fc6f8cba786bfc40bf186367ea652c8ddfc9a14a",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMLkAnicbZNtaFZlGMf3ZFttYAmS9kKBB/ZBmOt+Pfd9PwPFylYkFEJB6nh2v+45
+bXvO0znn2RJ7WG+ygsSS1NlIECT8YJkuX4OStQ+iWMz8oJAwWn6QItgUatrbfVYS
+RefL4Rz+1//6X7/7uicWLmhoKZzfcnbdgdHDewpnx1+uNWx84Nq5zYGKzaaguDno
+tfMv22dsmpV6IxMUAwAR0NIoKDiRliPDJUVWWcK5UMAA4wxykDErLZJAAKYZQ8gg
+wbgKcSidEBjIoC1wUaXHJtUkqmS5bYgMU9QIRZRwVlMd6tARYhCnWlEktVAKCesL
+y3GaV/hwSqa2PYr9P/9Rmo/3P/pbuQEMscDMcEZxqJTEgoRQcUyF5BJpiLweYuiA
+IQjIUCGHmILYEiQ4V9IhPZ+7Nm8nQsA4oUiEFAtHKOWGYkCEZAxwCkUuTG1Skf3W
+q7OyjZNIBvW2oN8mvX22lMRxlrPVWZQrICUUY8qI8PPJtFzqt5nM2yjKIQTSQR0i
+aAC1wHfUwuEQEAcEVxBSh6yVgArgINYSIqgwsQpjQI2PkdoXK3FQJJCFPBQ+QWIH
+4l6bN0+jHk8tDYobAoFCJK02ClnDeAiQj2OQ0c4AD8tjkspRJrmGzmKuDIRSGIEk
+FR4lhwC4oKueN0sGIj1vnh/Tv8dHpL0nyso19deZVZM4i3Xc5wXlLKumxRxPtqma
+VwxaVfrbq6SiivG74isGbJJGccXj8sr/kKOsLbAvVaPElqJcQf24wD95HzvgLT0Y
+YKGDHEjiGGcCEmsIps7vGddK+qmV0wQoL/GL6hc4pEhzY5wWEhL5D0rsTTPZ4z09
+wIrMaokN6uOnNt7eUGhpaGq8Lb9EDS3Ni25drc6mO357qDB9qmv7eKsbXHPlTO25
+K8vOvH7h24Pvzp47Nr72sSdm37y598nvtr7dOEX7O2biXz/YfbTy2avr4cjK5S0/
+DH85vfOba48/X7qrK1p+ZISAXw7dv+O94C32wumpwzP3dp5YvG8/efjSwbULppfW
+V1zac+iTd9JtF7Y2rXmtjo6/v+uNR1cf5XP06thsx8WhzvGPmjecnAua1+1t3Hbk
+cqV74p7tP/feHLux+8fJvu5Phxuvf7zlkfK+46tGh2ZaV35lXuky318dK7RPPI0m
+F344+/sfOx8cunx39tOdJ0Y+X7/jqS+euTg8dOD6Crxk2fmOXYurN5bOtbqZ1bM1
+9exQd/v04GR96r7RJatOL/r6T/4UjEM=
+=jzHb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/theoria
+
+==================================================================
