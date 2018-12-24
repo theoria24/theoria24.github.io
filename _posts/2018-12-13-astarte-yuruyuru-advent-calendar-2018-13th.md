@@ -13,7 +13,7 @@ key:
 image: https://i.imgur.com/vUBVLUo.png
 ---
 
-この記事は **アスタルテゆるゆるアドベントカレンダー** 13日目の記事です。昨日は古山キリヲさんの **[東方Project『空白の三年間』についての考察](https://docs.google.com/document/d/1eAMrvO-73dmhYRYPp55OCwIU5Y3r-09XSgdzn4gL_1g/edit?usp=sharing)** でした
+この記事は **アスタルテゆるゆるアドベントカレンダー** 13日目の記事です。昨日は古山キリヲさんの **[東方Project『空白の三年間』についての考察](https://docs.google.com/document/d/1eAMrvO-73dmhYRYPp55OCwIU5Y3r-09XSgdzn4gL_1g/edit?usp=sharing){:target="_blank" rel="noopener"}** でした
 
 <blockquote class="embedly-card"><h4><a href="https://adventar.org/calendars/3503">アスタルテゆるゆるアドベントカレンダー Advent Calendar 2018 - Adventar</a></h4><p>カレンダーに関連付けされる記事は、アドベントカレンダーの基本的なそれに従っていれば何ら制限されませんが、カレンダー製作者は一切の責任を負いかねます。</p></blockquote> <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
