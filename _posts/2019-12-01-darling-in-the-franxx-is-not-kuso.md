@@ -24,11 +24,11 @@ key:
 
 ## さて
 
+<div class="embed-html-box"><p class="embed-html-box-inner"><a href="https://darli-fra.jp/" target="_blank" rel="noopener nofollow"><span class="embed-html-box_image"><img src="https://woinc.jp/img/cache/thumbnail-120x63.svg" style="background-image: url(http://darli-fra.jp/ogp.jpg);"></span><span class="embed-html-box_meta"><span class="embed-html-box_title"><q>TVアニメ「ダーリン・イン・ザ・フランキス」</q></span><span class="embed-html-box_description"><q>ORIGINAL TV ANIMATION NOW ON AIR TOKYO MX/とちぎテレビ/群馬テレビ/BS11/ABCテレビ メ～テレ/広島ホームテレビ/BSS山陰放送/BBCびわ湖放送 PV第2弾 ORIGINAL TV ANIMATION NOW ON AIR TOKYO MX/とちぎテレビ/群馬テレビ/BS11/ABCテレビ メ～テレ/広島ホームテレビ/BSS山陰放送/BBCびわ湖放送</q></span></span></a></p></div>
+
 今回紹介する作品は**『ダーリン・イン・ザ・フランキス』**という2018年冬・春クール（1～6月期）のオリジナルアニメです。知っている人は、「ああ、あれはクソだったなあ」とか「クソアニメって言われてるんですか？良かったけどなあ」とか色々感じることはあると思うのですが、今回は<s>ネタがなかったので</s>これで許してください。
 
 ![クソクソ言われてへんやろ～～～～～](https://i.imgur.com/7YKbuBD.png)
-
-<div class="embed-html-box"><p class="embed-html-box-inner"><a href="https://darli-fra.jp/" target="_blank" rel="noopener nofollow"><span class="embed-html-box_image"><img src="https://woinc.jp/img/cache/thumbnail-120x63.svg" style="background-image: url(http://darli-fra.jp/ogp.jpg);"></span><span class="embed-html-box_meta"><span class="embed-html-box_title"><q>TVアニメ「ダーリン・イン・ザ・フランキス」</q></span><span class="embed-html-box_description"><q>ORIGINAL TV ANIMATION NOW ON AIR TOKYO MX/とちぎテレビ/群馬テレビ/BS11/ABCテレビ メ～テレ/広島ホームテレビ/BSS山陰放送/BBCびわ湖放送 PV第2弾 ORIGINAL TV ANIMATION NOW ON AIR TOKYO MX/とちぎテレビ/群馬テレビ/BS11/ABCテレビ メ～テレ/広島ホームテレビ/BSS山陰放送/BBCびわ湖放送</q></span></span></a></p></div>
 
 あっ、そうそう、[Amazon Prime Videoでも見れるように](https://www.amazon.co.jp/gp/video/detail/B078Z3QVQV/){:target="_blank" rel="noopener"}なりました。プライム会員の人は見てね。
 
@@ -48,7 +48,8 @@ key:
 - 『アイドルマスター』『天元突破グレンラガン』の**錦織敦史**が監督
 - 『君の名は。』『心が叫びたがってるんだ。』などの**田中将賀**がキャラデザ・総作監
 - 『キルラキル』『リトルウィッチアカデミア』などの**TRIGGER**が共同制作
-- 『アイドルマスター』シリーズ『あの日見た花の名前を僕達はまだ知らない。』などの**A-1 Pictures**の新ブランド**CloverWorks**が共同制作
+- 『アイドルマスター』シリーズ『あの日見た花の名前を僕達はまだ知らない。』などの**A-1 Pictures**が共同制作
+- A-1 Picturesの新ブランド**CloverWorks**がアニメーション制作
 - 『ヱヴァンゲリヲン新劇場版』の**スタジオカラー**が3DCG（共同）
 - 『キルラキル』『天元突破グレンラガン』などの**今石洋之**がアクション監修
 - 『ヱヴァンゲリヲン新劇場版』『ベイマックス』の**コヤマシゲト**がメカニックデザイン
@@ -74,7 +75,7 @@ TRIGGER初のロボットアニメだそうで（ホンマか？）、
 まあエヴァみたいななんかそういうやつだなと思いました。僕はエヴァ好きなので。
 
 あと声優もまあまあ豪華で、好きな人は好きだと思いますね。山下七海さん。  
-ゼロツー: 戸松遥, イチゴ: 市ノ瀬加那, ミク: 山下七海, ココロ: 早見沙織
+ゼロツー: 戸松遥, イチゴ: 市ノ瀬加那, ミク: 山下七海, ココロ: 早見沙織, イクノ: 石上静香
 
 ## なにがダメだったか
 Amazon PrimeVideoのレビューを見てみましょう。
