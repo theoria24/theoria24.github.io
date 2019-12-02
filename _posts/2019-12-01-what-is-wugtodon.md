@@ -43,7 +43,7 @@ Twitterと最も異なる点は、プログラムが公開されており**誰�
 
 WugtodonはそういったMastodonサーバーの１つです。
 
-## mantodonの特徴
+## mastodonの特徴
 ### ローカルタイムライン
 ![ローカルタイムライン](https://i.imgur.com/kvqHFzm.png)
 
@@ -66,7 +66,7 @@ WugtodonはそういったMastodonサーバーの１つです。
 ## いかがだったでしょうか
 mastodonがわかったかな？興味ありって方はこの機会にぜひどうぞ。[Wugtodon招待リンク](https://wug.fun/invite/b5X9zdeQ){:target="_blank" rel="noopener"}（アカウント登録ページが開きます）
 
-Mastodonについてもっと詳しく知りたい方は下のスライドをご覧ください。わからないことがあったらなんでも聞いてください。よろしくおねがいします。
+mastodonについてもっと詳しく知りたい方は下のスライドをご覧ください。わからないことがあったらなんでも聞いてください。よろしくおねがいします。
 <script async class="speakerdeck-embed" data-id="334b8ccaceaf4ef685c1e0ddd0e527b1" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 **Wugtodon Advent Calendar 2019** 1日目の記事でした！さようなら！
