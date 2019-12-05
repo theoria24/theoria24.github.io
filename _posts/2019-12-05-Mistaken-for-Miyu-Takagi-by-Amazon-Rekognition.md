@@ -59,7 +59,7 @@ Amazon Rekognitionは類似度を数値で返してくれるので、しきい�
 ## 逆転の発想
 **『Amazon Rekognitionが高木美佑さんと間違えた方々を集めて楽しんでいただこう！』**
 
-まとめました。これは確かに似てるなとかこれは違うだろとか思ってください。<small>人ごとにまとめていますが、一部名前を間違えている可能性があります。ごめん。ゆるして。あとでこっそり教えてくれるとありがたい。</small>
+まとめました。これは確かに似てるなとかこれは違うだろとか思ってください。<small>人ごとにまとめていますが、一部名前や所属を間違えている可能性があります。ごめん。ゆるして。あとでこっそり教えてくれるとありがたい。</small>
 
 ### 浜田翔子さん
 アヴィラ所属（タレント事務所） / [事務所プロフィール](https://www.avilla.jp/talent/hamada/hamadaP.html){:target="_blank" rel="noopener"} / [Twitter](https://twitter.com/shokohamada){:target="_blank" rel="noopener"}
@@ -88,7 +88,7 @@ Amazon Rekognitionは類似度を数値で返してくれるので、しきい�
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【関連画像を自動検出】類似度: 95.36% <a href="https://t.co/7oyihHjEQ3">https://t.co/7oyihHjEQ3</a></p>&mdash; myuunews（非公式） (@myuunews) <a href="https://twitter.com/myuunews/status/1190505940350636032?ref_src=twsrc%5Etfw">November 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 三澤紗千香さん
-アーツビジョン所属 / [事務所プロフィール](http://spacecraft.co.jp/misawa_sachika/){:target="_blank" rel="noopener"} / [Twitter](https://twitter.com/misawa_official){:target="_blank" rel="noopener"}
+スペースクラフト所属 / [事務所プロフィール](http://spacecraft.co.jp/misawa_sachika/){:target="_blank" rel="noopener"} / [Twitter](https://twitter.com/misawa_official){:target="_blank" rel="noopener"}
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【関連画像を自動検出】類似度: 96.56% <a href="https://t.co/44w6Fz42nw">https://t.co/44w6Fz42nw</a></p>&mdash; myuunews（非公式） (@myuunews) <a href="https://twitter.com/myuunews/status/1193765404528775168?ref_src=twsrc%5Etfw">November 11, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -115,3 +115,6 @@ Amazon Rekognitionは類似度を数値で返してくれるので、しきい�
 **Wugtodon Advent Calendar 2019** 5日目の記事でした！ありがとうございました！また書きます！
 
 <div class="embed-html-box"><p class="embed-html-box-inner"><a href="https://adventar.org/calendars/3956" target="_blank" rel="noopener nofollow"><span class="embed-html-box_image"><img src="https://woinc.jp/img/cache/thumbnail-1x1.svg" style="background-image: url(https://adventar.org/og_image.png);"></span><span class="embed-html-box_meta"><span class="embed-html-box_title"><q>Wugtodon Advent Calendar 2019 - Adventar</q></span><span class="embed-html-box_description"><q>https://wug.fun のアドベントカレンダーです。 WUG関連じゃなくて良いです。今年を振り返ったり振り返らなかったり最近ハマってるやつを紹介したりしなかったりしてください。 僕の一人アドベントカレンダーになりそうなのでなんでも書いてください。</q></span></span></a></p></div>
+
+### 14:30追記
+三澤さんの所属を間違えていたので修正しました。すみません。
