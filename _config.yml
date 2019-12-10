@@ -13,7 +13,7 @@ background:
   default-post: images/page.png   # this image will be shown when post's front matter doesn't specify any image
 
 # Jekyll
-permalink:          /posts/:year/:month/:day/:title.html
+permalink:          /article/:year/:month/:day/:title.html
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
