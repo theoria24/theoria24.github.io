@@ -10,6 +10,8 @@ key:
   - アドベントカレンダー
   - クソアニメ
   - ダリフラ
+redirect_from:
+  - /darling-in-the-franxx-is-not-kuso/
 ---
 
 この記事は **クソじゃないアニメ Advent Calendar 2019** の 1日目の記事です。明日は青山さんが **『悪魔バスター★スター・バタフライ、いいよね』** を書きます。

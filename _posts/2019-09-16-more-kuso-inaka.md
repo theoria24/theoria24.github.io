@@ -8,6 +8,8 @@ tags:
   - poem
 key:
   - クソ田舎
+redirect_from:
+  - /more-kuso-inaka/
 ---
 
 こんばんは。~~暇なし芳一~~ておりあです。

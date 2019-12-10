@@ -11,6 +11,8 @@ key:
   - 神崎丼
   - 神崎おにいさん
   - アドベントカレンダー
+redirect_from:
+  - /knzk-advent-calendar/
 ---
 
 こんにちは。ておりあと申します。

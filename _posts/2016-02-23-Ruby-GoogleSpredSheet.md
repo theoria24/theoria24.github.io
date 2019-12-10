@@ -8,6 +8,8 @@ tags:
   - Google
   - GoogleDrive
   - Tech
+redirect_from:
+  - /Ruby-GoogleSpredSheet/
 ---
 
 [https://blog.cloudpack.jp/2014/10/28/input-data-to-google-spreadsheet-with-ruby](https://blog.cloudpack.jp/2014/10/28/input-data-to-google-spreadsheet-with-ruby){:target="_blank"}を参考にGoogle SpreadSheetに値を飛ばして保存するやつをRubyで作っていたのですがそのまま書いたらどうも上手く動かないので修正したやつ。

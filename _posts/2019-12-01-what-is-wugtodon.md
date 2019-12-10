@@ -10,6 +10,8 @@ tags:
   - mastodon
 key:
   - アドベントカレンダー
+redirect_from:
+  - /what-is-wugtodon/
 ---
 
 この記事は **Wugtodon Advent Calendar 2019** の 1日目の記事です。

@@ -10,6 +10,8 @@ tags:
   - Logo
   - リゼロ
   - Re:ゼロから始める異世界生活
+redirect_from:
+  - /ReZero-logo-font/
 ---
 
 [リゼロ](http://re-zero-anime.jp/){:target="_blank"}、面白いですよね。

@@ -6,6 +6,8 @@ categories:
 tags:
   - Anime
   - diary
+redirect_from:
+  - /18-autumn-anime/
 ---
 
 こんにちは。最近は色々忙しくてなにもできていないておりあです。

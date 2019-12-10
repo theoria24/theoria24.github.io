@@ -8,6 +8,8 @@ tags:
   - Social Game
   - ららマジ
   - 聖地巡礼
+redirect_from:
+  - /raramagi-contents-tourism/
 ---
 
 前回に引き続いて[ららマジ](http://raramagi.wrightflyer.net/){:target="_blank"}の話です。

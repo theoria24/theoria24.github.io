@@ -9,6 +9,8 @@ tags:
   - WUG
 key:
   - 松田耕平
+redirect_from:
+  - /wug-matsuda/
 ---
 
 こんばんわぐ👐。暇がなくて半年ぶりとかの更新になってしまいました。ておりあです。

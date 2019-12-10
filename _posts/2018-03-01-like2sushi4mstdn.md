@@ -7,6 +7,8 @@ tags:
   - Tech
   - CSS
   - mastodon
+redirect_from:
+  - /like2sushi4mstdn/
 ---
 
 こんにちは。mastodonをいじって楽しんでいるておりあです。タイトルのとおりです。

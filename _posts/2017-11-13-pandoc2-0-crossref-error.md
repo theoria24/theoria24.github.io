@@ -7,6 +7,8 @@ tags:
   - pandoc
   - pandoc-crossref
   - Tech
+redirect_from:
+  - /pandoc2-0-crossref-error/
 ---
 
 MacOS上で[Homebrew](https://brew.sh/){:target="_blank"}でインストールした[Pandoc](https://pandoc.org/){:target="_blank"}を使っているが、最近Pandocが2.0にアップデートされたので、特に深く考えずに```brew upgrade```したところ図表番号を管理するために使っていた[pandoc-crossref](https://github.com/lierdakil/pandoc-crossref){:target="_blank"}が動かなくなってしまった。

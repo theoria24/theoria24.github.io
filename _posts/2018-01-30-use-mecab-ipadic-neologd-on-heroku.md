@@ -10,6 +10,8 @@ tags:
 key:
   - mecab-ipadic-NEologd
   - heroku
+redirect_from:
+  - /use-mecab-ipadic-neologd-on-heroku/
 ---
 
 ## 1/31 追記

@@ -11,6 +11,8 @@ tags:
 key:
   - wugnews-unofficial-extension.user.js
   - wug.news
+redirect_from:
+  - /wugnews-Unofficial-Extension/
 ---
 [http://wug.news/](http://wug.news/){:target="_blank"} 便利ですよね。
 

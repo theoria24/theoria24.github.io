@@ -9,6 +9,8 @@ tags:
 key:
   - アドベントカレンダー
   - クソアニメ
+redirect_from:
+  - /nejimaki-seirei-senki-tenkyo-no-alderamin-is-not-kuso/
 ---
 
 この記事は **クソじゃないアニメ Advent Calendar 2018** の1日目の記事です。

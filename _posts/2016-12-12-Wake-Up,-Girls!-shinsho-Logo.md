@@ -15,6 +15,8 @@ key:
   - ロゴ
   - フォント
 twimage: https://theoria24.github.io/images/wugnsaigen.png
+redirect_from:
+  - /Wake-Up,-Girls!-shinsho-Logo/
 ---
 
 [WUG新章](http://wakeupgirls3.jp/){:target="_blank"}が発表されました。制作陣の変更など色々思うところはあるのですが、確実に変わってしまったものがあります。

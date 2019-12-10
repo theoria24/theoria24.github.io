@@ -9,6 +9,8 @@ tags:
   - Ubuntu
   - onedrive-d
   - Tech
+redirect_from:
+  - /OneDrive-Ubuntu/
 ---
 
 かつてUbuntuに標準で(？)搭載されていたストレージサービスUbuntu Oneが昨年6月に終了したので、Ubuntuでなんか使えるのないかなーと思って探してみたところ見つけたのが[onedrive-d](https://github.com/xybu/onedrive-d){:target="_blank"}。

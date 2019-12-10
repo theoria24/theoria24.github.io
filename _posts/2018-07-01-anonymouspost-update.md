@@ -7,6 +7,8 @@ tags:
   - Tech
   - Ruby
   - mastodon
+redirect_from:
+  - /anonymouspost-update/
 ---
 
 利用規約は[こちら](https://theoria24.github.io/anonymouspost-agreement/){:target="_blank"}にあります。

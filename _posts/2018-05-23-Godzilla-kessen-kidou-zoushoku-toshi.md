@@ -7,6 +7,8 @@ tags:
   - Anime
   - Godzilla
   - diary
+redirect_from:
+  - /Godzilla-kessen-kidou-zoushoku-toshi/
 ---
 
 GODZILLA決戦機動増殖都市を見ました。ゴジラのオタクなので。

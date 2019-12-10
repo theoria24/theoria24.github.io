@@ -8,6 +8,8 @@ tags:
   - Ruby
   - mastodon
   - AnonyMasto
+redirect_from:
+  - /anonymouspost-agreement/
 ---
 
 この規約はAnonyMastoの利用に関する事項を定めたものです。AnonyMastoを経由してトゥートを行い、あるいは他のユーザーのトゥートをブーストまたはお気に入り登録した時点をもって、規約に同意したものとします。

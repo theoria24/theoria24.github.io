@@ -7,6 +7,8 @@ tags:
   - Wikipedia
   - Sublime Text
   - Tech
+redirect_from:
+  - /Edit-Wikipedia-using-Sublime-Text/
 ---
 
 最近プログラムをいじったりするのに[Sublime Text](https://www.sublimetext.com/){:target="_blank"}を使っています。色々なプラグインがあって便利。  

@@ -8,6 +8,8 @@ tags:
   - Social Game
   - ららマジ
   - WUG
+redirect_from:
+  - /raramagi-discords-name/
 ---
 
 [ららマジ](http://raramagi.wrightflyer.net/){:target="_blank"}というソシャゲをやっているんですが、もうなんかすごい好きです。聖地巡礼するくらい好きです。

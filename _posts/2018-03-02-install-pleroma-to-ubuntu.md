@@ -7,6 +7,8 @@ tags:
   - Tech
   - pleroma
   - ubuntu
+redirect_from:
+  - /install-pleroma-to-ubuntu/
 ---
 
 動かします。

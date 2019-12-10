@@ -7,6 +7,8 @@ tags:
   - Tech
   - Ruby
   - mastodon
+redirect_from:
+  - /creating-mastodon-bot/
 ---
 
 こんにちは。最近は[theboss.tech](https://theboss.tech){:target="_blank"}でクソbotの制作に勤しんでいるておりあです。

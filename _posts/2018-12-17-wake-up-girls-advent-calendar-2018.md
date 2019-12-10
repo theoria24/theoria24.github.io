@@ -11,6 +11,8 @@ tags:
 key:
   - アドベントカレンダー
 twimage: https://i.imgur.com/VUpdcjy.png
+redirect_from:
+  - /wake-up-girls-advent-calendar-2018/
 ---
 
 この記事は **Wake Up, Girls！ Advent Calendar 2018** 17日目の記事です。今日は12月17日です。いいね？昨日はzourimusi64さんの **[WUGとクリエイターについて](https://adventar.org/calendars/3206#list-2018-12-16){:target="_blank" rel="noopener"}** のはずです。
