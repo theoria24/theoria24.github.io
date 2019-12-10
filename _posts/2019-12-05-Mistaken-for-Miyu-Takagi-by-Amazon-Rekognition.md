@@ -12,6 +12,8 @@ tags:
   - Amazon Rekognition
 key:
   - アドベントカレンダー
+redirect_from:
+  - /test/redirect/my-post
 ---
 
 この記事は **Wugtodon Advent Calendar 2019** の 5日目の記事です。
