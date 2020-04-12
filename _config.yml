@@ -1,42 +1,42 @@
 # Site
 title: Theoria Note
-description: 日々の生活に役立たないメモ
+description: 回り続ける世界は夢を紡いで行くよ
 url: https://theoria24.github.io
-logo: logo.png                                       # Site logo
+logo: logo.png # Site logo
 locale: ja_JP
 cardimg: cardimg.png
 
 # Left Block Images
 background:
-  homepage: images/home.png                           # this image will be shown on homepage's left block
-  post-list: images/post.png             # this image will be shown on post list page
-  default-post: images/page.png   # this image will be shown when post's front matter doesn't specify any image
+  homepage: images/home.png # this image will be shown on homepage's left block
+  post-list: images/post.png # this image will be shown on post list page
+  default-post: images/page.png # this image will be shown when post's front matter doesn't specify any image
 
 # Jekyll
-permalink:          /article/:year/:month/:day/:title.html
-markdown:           kramdown
-highlighter:        rouge
+permalink: /article/:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
   coderay_line_numbers: table
 
 sass:
-  sass_dir:         assets/_sass
-  style:            compressed
+  sass_dir: assets/_sass
+  style: compressed
 
 # Google Analytics
 google-analytics: UA-77995914-1
 
 # Social Links
-email:             theoria23@gmail.com
+email: theoria23@gmail.com
 #google.plus:        117616561992874279869
-twitter:            _theoria
+twitter: _theoria
 #facebook:           username
-github:             theoria24
+github: theoria24
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -45,19 +45,19 @@ github:             theoria24
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              _theoria
+steam: _theoria
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
 #codepen:           username
-keybase:           theoria
+keybase: theoria
 #xmpp:              username@server.com
 #hackernews:        username
 #behance:           username
-wikipedia:          Theoria24
-mastodon:           wug.fun/@theoria
+wikipedia: Theoria24
+mastodon: wug.fun/@theoria
 
 disqus: disqus_GcrjMlrWvK
 
@@ -70,4 +70,17 @@ plugins:
 
 # Exclude list
 include: [_pages]
-exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
+exclude:
+  [
+    README.md,
+    Gemfile,
+    Gemfile.lock,
+    _site,
+    src,
+    vendor,
+    CNAME,
+    LICENSE,
+    Rakefile,
+    .sass-cache,
+    .DS_Store,
+  ]

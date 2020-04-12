@@ -3,6 +3,11 @@
   image: https://theoria24.github.io/profile/ico/tc.png
   completed: true
 
+- title: @myuunews
+  url: https://twitter.com/myuunews
+  image: https://i.imgur.com/Aib68Nc.png
+  completed: true
+
 - title: Animetick to Mastodon
   url: https://github.com/theoria24/animetick-to-mastodon
   image: https://user-images.githubusercontent.com/17396689/32841230-1d1cfec0-ca5d-11e7-831d-a6825c47b7b9.png
@@ -37,7 +42,7 @@
   url: https://twitter.com/julia__tan
   image: https://theoria24.github.io/profile/ico/julia.png
   completed: true
-
+#
 #- title: ざんげちゃんbot
 #  url: https://twitter.com/zangechanbot
 #  image: https://pbs.twimg.com/profile_images/674626052677742592/puQ-zZPa.jpg
