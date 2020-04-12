@@ -9,6 +9,7 @@ tags:
   - ららマジ
   - 聖地巡礼
   - 有栖川翼
+image: https://i.imgur.com/nJdTGA7.jpg
 ---
 
 こんにちは。ておりあです。
