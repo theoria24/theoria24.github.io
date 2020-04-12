@@ -13,6 +13,11 @@
   image: https://user-images.githubusercontent.com/17396689/32841230-1d1cfec0-ca5d-11e7-831d-a6825c47b7b9.png
   completed: true
 
+- title: 俳句検出bot
+  url: https://social.timespiral.co.jp/@find575/with_replies
+  image: https://theoria24.github.io/assets/images/find575.png
+  completed: true
+
 - title: TwinkleStar
   url: https://github.com/theoria24/TwinkleStar
   image: https://raw.githubusercontent.com/theoria24/TwinkleStar/master/assets/icon.png
@@ -21,11 +26,6 @@
 - title: wugnews-unofficial-extension.user.js
   url: https://theoria24.github.io/wugnews-Unofficial-Extension/
   image: https://theoria24.github.io/assets/images/wugnews-unofficial-extension.user.js.png
-  completed: true
-
-- title: 俳句検出bot
-  url: https://theboss.tech/@find575
-  image: https://theoria24.github.io/assets/images/find575.png
   completed: true
 
 - title: like2iine
