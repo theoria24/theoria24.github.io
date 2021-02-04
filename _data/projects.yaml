@@ -25,7 +25,7 @@
 
 - title: TwinkleStar
   url: https://github.com/theoria24/TwinkleStar
-  image: https://raw.githubusercontent.com/theoria24/TwinkleStar/master/assets/icon.png
+  image: https://i.imgur.com/D4MmVGr.png
   completed: false
 
 - title: wugnews-unofficial-extension.user.js
@@ -37,16 +37,16 @@
   url: https://theoria24.github.io/like2iine/
   image: https://theoria24.github.io/assets/images/like2iine.png
   completed: true
-
-- title: ジャックス君
-  url: https://twitter.com/jacks_kun
-  image: https://theoria24.github.io/profile/ico/jacks.jpg
-  completed: true
-
-- title: ジュリアたん
-  url: https://twitter.com/julia__tan
-  image: https://theoria24.github.io/profile/ico/julia.png
-  completed: true
+#
+# - title: ジャックス君
+#   url: https://twitter.com/jacks_kun
+#   image: https://theoria24.github.io/profile/ico/jacks.jpg
+#   completed: true
+#
+# - title: ジュリアたん
+#   url: https://twitter.com/julia__tan
+#   image: https://theoria24.github.io/profile/ico/julia.png
+#   completed: true
 #
 #- title: ざんげちゃんbot
 #  url: https://twitter.com/zangechanbot
