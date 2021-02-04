@@ -8,6 +8,11 @@
   image: https://i.imgur.com/Aib68Nc.png
   completed: true
 
+- title: searchGguide
+  url: https://github.com/theoria24/searchGguide
+  image: https://user-images.githubusercontent.com/17396689/106942485-912efc00-6767-11eb-9958-552172b60cdb.gif
+  completed: true
+
 - title: Animetick to Mastodon
   url: https://github.com/theoria24/animetick-to-mastodon
   image: https://user-images.githubusercontent.com/17396689/32841230-1d1cfec0-ca5d-11e7-831d-a6825c47b7b9.png
