@@ -18,6 +18,11 @@
   image: https://user-images.githubusercontent.com/17396689/32841230-1d1cfec0-ca5d-11e7-831d-a6825c47b7b9.png
   completed: true
 
+- title: nanimita
+  url: https://nanimita.theoria.ga
+  image: https://nanimita.theoria.ga/logo.png
+  completed: true
+
 - title: 俳句検出bot
   url: https://social.timespiral.co.jp/@find575/with_replies
   image: https://theoria24.github.io/assets/images/find575.png
