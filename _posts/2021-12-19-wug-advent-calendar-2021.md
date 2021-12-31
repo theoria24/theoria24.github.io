@@ -122,6 +122,13 @@ curl https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedi
 
 何か所か、アクセス数が増えている時期がありますね。
 
+<figure>
+  <center>
+    <a href="https://i.imgur.com/pPxDnxx.png"><img src="https://i.imgur.com/pPxDnxx.png"></a>
+    <figcaption>Wikipedia: 吉岡茉祐 のアクセス数が多い日</figcaption>
+  </center>
+</figure>
+
 ### 2016 年 4 月 〜 6 月頃
 
 やや増えていますね。この時期は、TV アニメ **ハンドレッド** や **あんハピ ♪** が放送されていました。吉岡さんはそれぞれ **霧島サクラ**（ハンドレッド）、 **江古田蓮**（あんハピ ♪）とメインキャラクターの 1 人を務めました。
@@ -182,6 +189,13 @@ WUG の解散に隠れてあまり目立ちませんが、この日もアクセ�
   <center>
     <a href="https://i.imgur.com/bWRu0Df.png"><img src="https://i.imgur.com/bWRu0Df.png"></a>
     <figcaption>Wikipedia: 永野愛理 のアクセス数</figcaption>
+  </center>
+</figure>
+
+<figure>
+  <center>
+    <a href="https://i.imgur.com/Yw0OM1E.png"><img src="https://i.imgur.com/Yw0OM1E.png"></a>
+    <figcaption>Wikipedia: 永野愛理 のアクセス数が多い日</figcaption>
   </center>
 </figure>
 
@@ -261,6 +275,13 @@ WUG の解散に隠れてあまり目立ちませんが、この日もアクセ�
   <center>
     <a href="https://i.imgur.com/yo7X3C1.png"><img src="https://i.imgur.com/yo7X3C1.png"></a>
     <figcaption>Wikipedia: 田中美海 のアクセス数</figcaption>
+  </center>
+</figure>
+
+<figure>
+  <center>
+    <a href="https://i.imgur.com/6x6Bn9Q.png"><img src="https://i.imgur.com/6x6Bn9Q.png"></a>
+    <figcaption>Wikipedia: 田中美海 のアクセス数が多い日</figcaption>
   </center>
 </figure>
 
@@ -511,6 +532,13 @@ TV アニメ『**ひとりぼっちの ○○ 生活**』第 1 話の放送日�
   </center>
 </figure>
 
+<figure>
+  <center>
+    <a href="https://i.imgur.com/1oqmo34.png"><img src="https://i.imgur.com/1oqmo34.png"></a>
+    <figcaption>Wikipedia: 青山吉能 のアクセス数が多い日</figcaption>
+  </center>
+</figure>
+
 ### 2015 年 12 月 11 日 - 14 日
 
 12 月 11 日は **ハッカドール THE あにめ〜しょん** 第 11 話の放送日でした。青山吉能さんは **ゆっぴー** 役で出演されていました。
@@ -648,6 +676,13 @@ FIVE STARS チャンネル・超!A&G+で放送された『**A&G NEXT BREAKS 田�
   </center>
 </figure>
 
+<figure>
+  <center>
+    <a href="https://i.imgur.com/E4tFslS.png"><img src="https://i.imgur.com/E4tFslS.png"></a>
+    <figcaption>Wikipedia: 山下七海 のアクセス数が多い日</figcaption>
+  </center>
+</figure>
+
 ### 2015 年 10 月 11 日
 
 ノーコメントでいいですか？ だめな人は Twitter で聴いてください。
@@ -763,6 +798,13 @@ TV アニメ『**二度目の人生を異世界で**』に**創造主**役で出
   </center>
 </figure>
 
+<figure>
+  <center>
+    <a href="https://i.imgur.com/GAdkui5.png"><img src="https://i.imgur.com/GAdkui5.png"></a>
+    <figcaption>Wikipedia: 奥野香耶 のアクセス数が多い日</figcaption>
+  </center>
+</figure>
+
 ### 2015 年 12 月 2 日
 
 TV アニメ『**俺がお嬢様学校に「庶民サンプル」としてゲッツ ♥ された件**』 9 話の放送日で、奥野さんは **メイド**役で出演されていました。
@@ -839,6 +881,13 @@ TV アニメ『**異種族レビュアーズ**』第 5 話 の放送日で、奥
   <center>
     <a href="https://i.imgur.com/kBufXVr.png"><img src="https://i.imgur.com/kBufXVr.png"></a>
     <figcaption>Wikipedia: 高木美佑 のアクセス数</figcaption>
+  </center>
+</figure>
+
+<figure>
+  <center>
+    <a href="https://i.imgur.com/dhzTtKI.png"><img src="https://i.imgur.com/dhzTtKI.png"></a>
+    <figcaption>Wikipedia: 高木美佑 のアクセス数が多い日</figcaption>
   </center>
 </figure>
 
