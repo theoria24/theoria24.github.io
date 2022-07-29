@@ -14,7 +14,7 @@ redirect_from:
 こんにちは。mastodonをいじって楽しんでいるておりあです。タイトルのとおりです。
 
 ## like2sushi4mstdn.css
-Gistで[公開しています](https://theboss.tech/@AnonymousPost){:target="_blank"}。
+Gistで[公開しています](https://gist.github.com/theoria24/8ac3ac0f8167b109eb0724c4563ddf6d){:target="_blank"}。
 
 ### なにこれ？
 mastodonのお気に入り登録ボタンを寿司に変えるユーザースタイルシートです。
