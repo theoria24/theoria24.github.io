@@ -20,7 +20,8 @@ Gistで[公開しています](https://gist.github.com/theoria24/8ac3ac0f8167b10
 mastodonのお気に入り登録ボタンを寿司に変えるユーザースタイルシートです。
 
 ### は？
-<iframe src="https://theboss.tech/@theoria/99514232898753004/embed" class="mastodon-embed" style="max-width: 100%; border: 1px solid #e1e8ed; border-radius: 5px;" width="400"></iframe><script src="https://theboss.tech/embed.js" async="async"></script>
+<!-- <iframe src="https://theboss.tech/@theoria/99514232898753004/embed" class="mastodon-embed" style="max-width: 100%; border: 1px solid #e1e8ed; border-radius: 5px;" width="400"></iframe><script src="https://theboss.tech/embed.js" async="async"></script> -->
+<iframe src="https://wug.fun/@theoria/108731133803035157/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://wug.fun/embed.js" async="async"></script>
 こんな感じです。
 
 ### 使い方
@@ -47,4 +48,4 @@ Stylish（[Chrome](https://chrome.google.com/webstore/detail/stylish-custom-them
 かつて、Twitterの⭐️が❤️になってしまったときに、🍣にするChrome Extension（[mzyy94/like2sushi](https://github.com/mzyy94/like2sushi){:target="_blank"}）が存在し、フォークして遊んだりしていました。ふと懐かしくなって見に行ったらアーカイブ化されており、悲しくなったのでmastodonで似たようなもん作ろうと思いました。
 
 ### その他
-分からなかったら[@theoria@theboss.tech](https://theboss.tech/@theoria){:target="_blank"}にリプライか何か投げてください。気付いたら対応します。
+分からなかったら<s>@theoria@theboss.tech</s>[@theoria@wug.fun](https://wug.fun/@theoria){:target="_blank"}にリプライか何か投げてください。気付いたら対応します。
